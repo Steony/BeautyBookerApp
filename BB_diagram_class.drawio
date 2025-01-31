@@ -203,7 +203,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qEeKyHEhCAI6KiBk3C8H-16" value="Categorie" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1160" y="-180" width="180" height="260" as="geometry">
+          <mxGeometry x="1050" y="-310" width="180" height="260" as="geometry">
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -297,7 +297,7 @@
             <mxPoint x="840" y="-80" as="sourcePoint" />
             <mxPoint x="960" y="-200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1000" y="-90" />
+              <mxPoint x="990" y="-150" />
             </Array>
           </mxGeometry>
         </mxCell>
