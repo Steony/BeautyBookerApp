@@ -63,7 +63,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-13" value="Rechercher et Filtrer une prestation&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="217" y="-460" width="140" height="70" as="geometry" />
+          <mxGeometry x="216" y="-490" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-14" value="Afficher la page d&#39;accueil" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-92.5" y="-470" width="140" height="70" as="geometry" />
@@ -76,7 +76,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-16" value="Afficher le détail d&#39;un service" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="-524" width="140" height="70" as="geometry" />
+          <mxGeometry x="580" y="-510" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-17" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.926;entryY=0.698;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JcrogjCkA5fSQEfnVnb9-16" target="JcrogjCkA5fSQEfnVnb9-13" edge="1">
           <mxGeometry x="0.0098" width="160" relative="1" as="geometry">
