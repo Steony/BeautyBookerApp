@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.10">
   <diagram name="Page-1" id="6ZYqpIRizQXzz5DhEBzc">
-    <mxGraphModel dx="5357" dy="2835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4742" dy="2335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,18 +88,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JcrogjCkA5fSQEfnVnb9-18" value="Reserver" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
-          <mxGeometry x="930" y="-550" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="JcrogjCkA5fSQEfnVnb9-19" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" source="JcrogjCkA5fSQEfnVnb9-18" target="JcrogjCkA5fSQEfnVnb9-16" edge="1">
-          <mxGeometry x="-0.0331" y="1" width="160" relative="1" as="geometry">
-            <mxPoint x="607" y="-241" as="sourcePoint" />
-            <mxPoint x="512" y="-249" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-22" value="Retirer un RDV" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="660" y="-366.5" width="140" height="70" as="geometry" />
+          <mxGeometry x="740" y="-380" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-23" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JcrogjCkA5fSQEfnVnb9-22" target="ZPxUNIYuf-vSOhyrgH9L-7" edge="1">
           <mxGeometry x="-0.0931" y="4" width="160" relative="1" as="geometry">
@@ -109,7 +99,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-28" value="Valider la réservation" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="-240" width="140" height="70" as="geometry" />
+          <mxGeometry x="660" y="-230" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-29" value="S&#39;authentifier" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="-220" width="140" height="70" as="geometry" />
@@ -588,7 +578,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZPxUNIYuf-vSOhyrgH9L-7" value="Réserver" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="-344" width="137" height="64" as="geometry" />
+          <mxGeometry x="483" y="-374" width="137" height="64" as="geometry" />
         </mxCell>
         <mxCell id="ZPxUNIYuf-vSOhyrgH9L-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.381;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZPxUNIYuf-vSOhyrgH9L-9" target="JcrogjCkA5fSQEfnVnb9-29">
           <mxGeometry relative="1" as="geometry">
@@ -598,6 +588,13 @@
         </mxCell>
         <mxCell id="ZPxUNIYuf-vSOhyrgH9L-9" value="Se connecter" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="-110" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPxUNIYuf-vSOhyrgH9L-12" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.36;entryY=0.952;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZPxUNIYuf-vSOhyrgH9L-7" target="JcrogjCkA5fSQEfnVnb9-16">
+          <mxGeometry x="-0.0931" y="4" width="160" relative="1" as="geometry">
+            <mxPoint x="730" y="-427" as="sourcePoint" />
+            <mxPoint x="590" y="-400" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
