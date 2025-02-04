@@ -284,7 +284,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-68" value="Afficher profil" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="77" y="560" width="130" height="80" as="geometry" />
+          <mxGeometry x="30" y="505" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-69" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;exitX=0.72;exitY=0.336;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="JcrogjCkA5fSQEfnVnb9-4" target="ZPxUNIYuf-vSOhyrgH9L-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
