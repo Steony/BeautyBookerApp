@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JcrogjCkA5fSQEfnVnb9-1" value="Visiteur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-610" y="-490" width="170" height="267" as="geometry" />
+          <mxGeometry x="-680" y="-490" width="170" height="267" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-2" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=block;endFill=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JcrogjCkA5fSQEfnVnb9-3" target="JcrogjCkA5fSQEfnVnb9-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -15,22 +15,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-3" value="Prestataire&amp;lt;&amp;lt;authentifié&amp;gt;&amp;gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-580" y="1110" width="140" height="240" as="geometry" />
+          <mxGeometry x="-640" y="1740" width="140" height="240" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-4" value="Client &amp;lt;&amp;lt;authentifié&amp;gt;&amp;gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-590" y="310" width="140" height="250" as="geometry" />
+          <mxGeometry x="-650" y="320" width="140" height="250" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-5" value="Système Stripe &amp;lt;&amp;lt;secondaire&amp;gt;&amp;gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="2230" y="560" width="85" height="160" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-355" y="-600" width="2265" height="3490" as="geometry" />
+          <mxGeometry x="-400" y="-600" width="2302.5" height="3490" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-350" y="-584" width="120" height="60" as="geometry" />
+          <mxGeometry x="-337" y="-584" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-8" value="Système" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-317.75" y="-570" width="60" height="30" as="geometry" />
+          <mxGeometry x="-311" y="-569" width="62.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-9" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=0.149;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="JcrogjCkA5fSQEfnVnb9-1" target="JcrogjCkA5fSQEfnVnb9-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -38,18 +38,13 @@
             <mxPoint x="-122" y="-265" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JcrogjCkA5fSQEfnVnb9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=block;endFill=0;entryX=0.429;entryY=0.708;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JcrogjCkA5fSQEfnVnb9-11" target="JcrogjCkA5fSQEfnVnb9-3" edge="1">
+        <mxCell id="JcrogjCkA5fSQEfnVnb9-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=block;endFill=0;entryX=0.429;entryY=0.708;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JcrogjCkA5fSQEfnVnb9-11" target="JcrogjCkA5fSQEfnVnb9-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-525" y="1800" />
-              <mxPoint x="-690" y="1800" />
-              <mxPoint x="-690" y="1280" />
-            </Array>
             <mxPoint x="-512" y="855" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-11" value="Admin &amp;lt;&amp;lt;authentifié&amp;gt;&amp;gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-590" y="1800" width="130" height="259" as="geometry" />
+          <mxGeometry x="-670" y="2480" width="130" height="259" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-12" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.466;exitY=0.686;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.38;entryY=0.704;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=block;endFill=0;" parent="1" source="JcrogjCkA5fSQEfnVnb9-4" target="JcrogjCkA5fSQEfnVnb9-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -59,7 +54,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-13" value="Rechercher et Filtrer une prestation&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" parent="1" vertex="1">
-          <mxGeometry x="100" y="-530" width="140" height="70" as="geometry" />
+          <mxGeometry x="147" y="-530" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-14" value="Afficher la page d&#39;accueil" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-220" y="-490" width="140" height="70" as="geometry" />
@@ -93,12 +88,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-28" value="Valider la réservation" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="980" y="-410" width="140" height="70" as="geometry" />
+          <mxGeometry x="970" y="-382" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-29" value="S&#39;authentifier" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="-260" width="140" height="70" as="geometry" />
+          <mxGeometry x="720" y="-260" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JcrogjCkA5fSQEfnVnb9-30" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="JcrogjCkA5fSQEfnVnb9-28" target="ZPxUNIYuf-vSOhyrgH9L-7" edge="1">
+        <mxCell id="JcrogjCkA5fSQEfnVnb9-30" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.928;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JcrogjCkA5fSQEfnVnb9-28" target="ZPxUNIYuf-vSOhyrgH9L-7" edge="1">
           <mxGeometry x="-0.0506" y="1" width="160" relative="1" as="geometry">
             <mxPoint x="261" y="-28" as="sourcePoint" />
             <mxPoint x="500" y="-155" as="targetPoint" />
@@ -168,15 +163,15 @@
             <mxPoint x="-482" y="27" as="sourcePoint" />
             <mxPoint x="-189" y="78" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-440" y="420" />
+              <mxPoint x="-350" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-46" value="Réserver" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
-          <mxGeometry x="-247" y="699.62" width="117" height="58" as="geometry" />
+          <mxGeometry x="340" y="460" width="117" height="58" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-47" value="Envoyer Email" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="-17" y="695.62" width="117" height="62" as="geometry" />
+          <mxGeometry x="330" y="670" width="117" height="62" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-48" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;" parent="1" source="JcrogjCkA5fSQEfnVnb9-46" target="JcrogjCkA5fSQEfnVnb9-47" edge="1">
           <mxGeometry x="-0.0506" y="1" width="160" relative="1" as="geometry">
@@ -186,22 +181,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-49" value="Email confirmation commande" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="630" width="112" height="57.5" as="geometry" />
+          <mxGeometry x="573" y="620" width="112" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-50" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=block;endFill=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JcrogjCkA5fSQEfnVnb9-49" target="JcrogjCkA5fSQEfnVnb9-47" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="-31" y="394" as="sourcePoint" />
             <mxPoint x="-52" y="308" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JcrogjCkA5fSQEfnVnb9-51" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=elbowEdgeStyle;exitX=0.546;exitY=0.576;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="JcrogjCkA5fSQEfnVnb9-4" target="JcrogjCkA5fSQEfnVnb9-46" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-481" y="18.5" as="sourcePoint" />
-            <mxPoint x="140" y="461.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-340" y="580" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-52" value="" style="endArrow=none;html=1;rounded=0;exitX=0.714;exitY=0.857;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=elbowEdgeStyle;" parent="1" source="JcrogjCkA5fSQEfnVnb9-4" target="JcrogjCkA5fSQEfnVnb9-37" edge="1">
@@ -425,10 +411,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-91" value="créer une catégorie de prestations" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="1160" width="140" height="70" as="geometry" />
+          <mxGeometry x="880" y="1700" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-92" value="Créer compte du Magasinier" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-261" y="1509" width="140" height="70" as="geometry" />
+          <mxGeometry x="-140" y="1560" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-93" value="" style="endArrow=none;html=1;rounded=0;exitX=0.677;exitY=0.322;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="JcrogjCkA5fSQEfnVnb9-3" target="JcrogjCkA5fSQEfnVnb9-91" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -446,22 +432,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-95" value="Ajouter un article" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="660" y="1240" width="140" height="70" as="geometry" />
+          <mxGeometry x="740" y="1509" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-96" value="Mettre à jour le prix article" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="1260" width="140" height="70" as="geometry" />
+          <mxGeometry x="540" y="1509" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-97" value="Ajouter des promotions" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="870" y="1260" width="140" height="70" as="geometry" />
+          <mxGeometry x="1090" y="1680" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-98" value="Supprimer compte du Magasinier" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-343" y="1600" width="140" height="70" as="geometry" />
+          <mxGeometry x="-140" y="1650" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-99" value="Envoyer Email" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="-39.75" y="1509" width="140" height="70" as="geometry" />
+          <mxGeometry x="100" y="1590" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-100" value="Gérer les utilisateurs" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-333" y="1684" width="140" height="70" as="geometry" />
+          <mxGeometry x="240" y="1630" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-101" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;entryX=-0.015;entryY=0.653;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JcrogjCkA5fSQEfnVnb9-92" target="JcrogjCkA5fSQEfnVnb9-99" edge="1">
           <mxGeometry y="-3" width="160" relative="1" as="geometry">
@@ -472,7 +458,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-102" value="Email validation commande" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="159" y="1520" width="140" height="70" as="geometry" />
+          <mxGeometry x="287" y="1560" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-103" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=block;endFill=0;entryX=0.681;entryY=0.078;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JcrogjCkA5fSQEfnVnb9-102" target="JcrogjCkA5fSQEfnVnb9-99" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -496,12 +482,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0VXXz9JsmSmNUR_kG7N2-2" value="&lt;h2&gt;&lt;strong&gt;Visiteur Non Authentifié&lt;/strong&gt;&lt;/h2&gt;&lt;p&gt;Le visiteur peut :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(235, 198, 209);&quot;&gt;&lt;strong style=&quot;&quot;&gt;Afficher la page d’accueil&lt;/strong&gt;.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(249, 184, 184);&quot;&gt;&lt;strong&gt;S’inscrire&lt;/strong&gt; (créer un compte utilisateur ou prestataire).&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(243, 175, 175);&quot;&gt;&lt;strong&gt;Rechercher et filtrer une prestation&lt;/strong&gt; (par localisation, type de maquillage, événement, etc.).&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Afficher le profil d’un prestataire&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Voir les disponibilités des prestataires&lt;/strong&gt; (en mode lecture seule).&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Accéder à la FAQ et aux politiques du site&lt;/strong&gt; (conditions générales, politique d&#39;annulation, etc.).&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Consulter les articles ou tutoriels&lt;/strong&gt; disponibles sur le site.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Partager une prestation ou un profil de prestataire&lt;/strong&gt; via WhatsApp, e-mail ou réseaux sociaux.&lt;/li&gt;&lt;/ul&gt;&lt;hr&gt;&lt;h2&gt;✅ &lt;strong&gt;Utilisateur Authentifié (Client)&lt;/strong&gt;&lt;/h2&gt;&lt;p&gt;L’utilisateur authentifié peut :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Se connecter&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Se déconnecter&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Afficher ses réservations&lt;/strong&gt; (à venir et passées).&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Afficher son profil&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Modifier son profil&lt;/strong&gt; (informations personnelles, préférences, etc.).&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Désactiver son compte&lt;/strong&gt; (mettre le compte en pause ou supprimer le compte).&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Afficher le profil d’un prestataire&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Prendre un rendez-vous avec un prestataire&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Annuler ou modifier une réservation&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Payer une réservation&lt;/strong&gt; via les moyens de paiement disponibles.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Laisser un avis ou une note&lt;/strong&gt; après une prestation.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Contacter un prestataire&lt;/strong&gt; via une messagerie intégrée.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Créer une liste de favoris&lt;/strong&gt; pour sauvegarder des prestataires ou des services.&lt;/li&gt;&lt;/ul&gt;&lt;hr&gt;&lt;h2&gt;✅ &lt;strong&gt;Prestataire Authentifié&lt;/strong&gt;&lt;/h2&gt;&lt;p&gt;Le prestataire authentifié peut :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Personnaliser son profil&lt;/strong&gt; (photo, description, compétences, etc.).&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Configurer ses services&lt;/strong&gt; : lister les prestations proposées avec prix, description, durée, et options supplémentaires.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Créer des offres spéciales&lt;/strong&gt; (promotions, packages).&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Consulter son calendrier&lt;/strong&gt; des réservations (à venir et passées).&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Accepter ou refuser des demandes de réservation&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Recevoir des paiements&lt;/strong&gt; via la plateforme.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Répondre aux messages des clients&lt;/strong&gt; pour des questions ou des détails sur les prestations.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Consulter les avis reçus&lt;/strong&gt; et y répondre si nécessaire.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Accéder à des statistiques&lt;/strong&gt; (nombre de réservations, revenus générés, avis clients, etc.).&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Créer des partenariats&lt;/strong&gt; avec d’autres prestataires ou entreprises (ex. : coiffeurs, photographes).&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;+--------------------+&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;| Visiteur Non Auth. |&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;+---------+----------+&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|--------------------------------------+&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; |&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;+------------------+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; +--------------------------+&amp;nbsp; |&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;| Afficher page&amp;nbsp; &amp;nbsp; |&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; | S’inscrire&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|&amp;nbsp; |&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;| d&#39;accueil&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; |&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; +--------------------------+&amp;nbsp; |&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;+------------------+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; | Rechercher et filtrer&amp;nbsp; &amp;nbsp; &amp;nbsp;|&amp;nbsp; |&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; | une prestation&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; |&amp;nbsp; |&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;+---------------------------+|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; +--------------------------+&amp;nbsp; |&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;| Afficher profil prestataire|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; | Afficher profil prestataire|&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;+---------------------------+|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; +--------------------------+&amp;nbsp; |&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; | Voir disponibilités&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|&amp;nbsp; |&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;+---------------------------+|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; +--------------------------+&amp;nbsp; |&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;| Accéder à FAQ et politiques|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; | Consulter articles&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; |&amp;nbsp; |&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;+---------------------------+|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; | ou tutoriels&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; |&amp;nbsp; |&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; +--------------------------+&amp;nbsp; |&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;+---------------------------+|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; | Partager prestation&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|&amp;nbsp; |&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;| Consulter articles&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; | ou profil prestataire&amp;nbsp; &amp;nbsp; &amp;nbsp;|&amp;nbsp; |&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;| ou tutoriels&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; +--------------------------+&amp;nbsp; |&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;+---------------------------+|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; |&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; |&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;+---------+----------+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;| Utilisateur Auth.&amp;nbsp; |&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;+---------+----------+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; |&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|--------------------------------------+&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;+---------------------------+|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; +--------------------------+&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;| Se connecter&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; |&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;| Se déconnecter&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;+---------------------------+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;+--------------------------+&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;+---------------------------+|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; +--------------------------+&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;| Afficher réservations&amp;nbsp; &amp;nbsp; &amp;nbsp;|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;| Afficher profil&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; |&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;| (à venir et passées)&amp;nbsp; &amp;nbsp; &amp;nbsp; |&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;+--------------------------+&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;+---------------------------+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;| Modifier profil&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; |&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; +--------------------------+&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;+---------------------------+|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; | Désactiver compte&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; |&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;| Prendre un rendez-vous&amp;nbsp; &amp;nbsp; |&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;+--------------------------+&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;| avec prestataire&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; |&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;| Annuler/modifier réservation|&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;+---------------------------+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;+--------------------------+&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; | Payer réservation&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; |&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;+---------------------------+|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; +--------------------------+&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;| Laisser un avis&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; |&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; | Contacter prestataire&amp;nbsp; &amp;nbsp; |&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;| ou une note&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; |&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; +--------------------------+&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;+---------------------------+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;| Créer liste de favoris&amp;nbsp; &amp;nbsp;|&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; +--------------------------+&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;+---------+----------+&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;| Prestataire Auth.&amp;nbsp; |&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;+---------+----------+&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|--------------------------------------+&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;+---------------------------+|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; +--------------------------+&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;| Personnaliser profil&amp;nbsp; &amp;nbsp; &amp;nbsp; |&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;| Configurer services&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;+---------------------------+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;+--------------------------+&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;+---------------------------+|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; +--------------------------+&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;| Créer offres spéciales&amp;nbsp; &amp;nbsp; |&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;| Consulter calendrier&amp;nbsp; &amp;nbsp; &amp;nbsp; |&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;+---------------------------+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;+--------------------------+&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;+---------------------------+|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; +--------------------------+&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;| Accepter/refuser&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; |&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;| Répondre aux messages&amp;nbsp; &amp;nbsp; &amp;nbsp;|&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;| réservation&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;+--------------------------+&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;+---------------------------+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;| Consulter avis reçus&amp;nbsp; &amp;nbsp; &amp;nbsp; |&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; +--------------------------+&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;+---------------------------+|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; | Accéder aux statistiques&amp;nbsp; |&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;| Recevoir paiements&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; |&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;+--------------------------+&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;| via la plateforme&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;| Créer partenariats&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; |&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;+---------------------------+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;+--------------------------+&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2500" y="-420" width="1700" height="3500" as="geometry" />
+          <mxGeometry x="-3290" y="-420" width="1700" height="3500" as="geometry" />
         </mxCell>
         <mxCell id="Aui0BbWLfcAQKPLBXU1m-1" value="Payer" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="23.5" y="540" width="117" height="58" as="geometry" />
+          <mxGeometry x="573" y="512" width="117" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="Aui0BbWLfcAQKPLBXU1m-2" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="JcrogjCkA5fSQEfnVnb9-46" target="Aui0BbWLfcAQKPLBXU1m-1" edge="1">
+        <mxCell id="Aui0BbWLfcAQKPLBXU1m-2" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="JcrogjCkA5fSQEfnVnb9-46" target="Aui0BbWLfcAQKPLBXU1m-1" edge="1">
           <mxGeometry x="-0.0506" y="1" width="160" relative="1" as="geometry">
             <mxPoint x="-171" y="661" as="sourcePoint" />
             <mxPoint x="-58" y="660" as="targetPoint" />
@@ -509,15 +495,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Aui0BbWLfcAQKPLBXU1m-3" value="Payer CB" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="341.5" y="502" width="117" height="58" as="geometry" />
+          <mxGeometry x="843" y="470" width="117" height="58" as="geometry" />
         </mxCell>
         <mxCell id="Aui0BbWLfcAQKPLBXU1m-4" value="Payer Paypal" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="483" y="572" width="117" height="58" as="geometry" />
+          <mxGeometry x="870" y="550" width="117" height="58" as="geometry" />
         </mxCell>
         <mxCell id="Aui0BbWLfcAQKPLBXU1m-6" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=block;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Aui0BbWLfcAQKPLBXU1m-3" target="Aui0BbWLfcAQKPLBXU1m-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="230" y="550" />
+              <mxPoint x="800" y="540" />
             </Array>
             <mxPoint x="111" y="496.62" as="sourcePoint" />
             <mxPoint x="10" y="699.62" as="targetPoint" />
@@ -525,15 +511,13 @@
         </mxCell>
         <mxCell id="Aui0BbWLfcAQKPLBXU1m-7" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=block;endFill=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Aui0BbWLfcAQKPLBXU1m-4" target="Aui0BbWLfcAQKPLBXU1m-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="260" y="590" />
-            </Array>
+            <Array as="points" />
             <mxPoint x="138" y="554" as="sourcePoint" />
             <mxPoint y="568" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZPxUNIYuf-vSOhyrgH9L-1" value="mail oublié" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1007.75" y="-223" width="140" height="70" as="geometry" />
+        <mxCell id="ZPxUNIYuf-vSOhyrgH9L-1" value="mail/mot de passe oublié" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="-264" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZPxUNIYuf-vSOhyrgH9L-2" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;entryX=0.941;entryY=0.671;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZPxUNIYuf-vSOhyrgH9L-1" target="JcrogjCkA5fSQEfnVnb9-29">
           <mxGeometry x="-0.0506" y="1" width="160" relative="1" as="geometry">
@@ -543,7 +527,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZPxUNIYuf-vSOhyrgH9L-3" value="Envoyer Email" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="-260" width="117" height="62" as="geometry" />
+          <mxGeometry x="1350" y="-312" width="117" height="62" as="geometry" />
         </mxCell>
         <mxCell id="ZPxUNIYuf-vSOhyrgH9L-5" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=block;endFill=0;exitX=0.01;exitY=0.316;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JcrogjCkA5fSQEfnVnb9-81" target="ZPxUNIYuf-vSOhyrgH9L-4">
           <mxGeometry relative="1" as="geometry">
@@ -563,7 +547,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZPxUNIYuf-vSOhyrgH9L-7" value="Réserver" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
-          <mxGeometry x="620" y="-410" width="137" height="64" as="geometry" />
+          <mxGeometry x="691.75" y="-440" width="137" height="64" as="geometry" />
         </mxCell>
         <mxCell id="ZPxUNIYuf-vSOhyrgH9L-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.381;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZPxUNIYuf-vSOhyrgH9L-9" target="JcrogjCkA5fSQEfnVnb9-29">
           <mxGeometry relative="1" as="geometry">
@@ -573,7 +557,7 @@
         <mxCell id="ZPxUNIYuf-vSOhyrgH9L-9" value="Se connecter" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="-130" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZPxUNIYuf-vSOhyrgH9L-12" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.686;entryY=0.895;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZPxUNIYuf-vSOhyrgH9L-7" target="JcrogjCkA5fSQEfnVnb9-16">
+        <mxCell id="ZPxUNIYuf-vSOhyrgH9L-12" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.686;entryY=0.895;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZPxUNIYuf-vSOhyrgH9L-7" target="JcrogjCkA5fSQEfnVnb9-16">
           <mxGeometry x="-0.0931" y="4" width="160" relative="1" as="geometry">
             <mxPoint x="730" y="-427" as="sourcePoint" />
             <mxPoint x="590" y="-400" as="targetPoint" />
@@ -581,13 +565,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZPxUNIYuf-vSOhyrgH9L-13" value="Afficher la page d&#39;accueil" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="356" width="140" height="70" as="geometry" />
+          <mxGeometry x="-240" y="369" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZPxUNIYuf-vSOhyrgH9L-14" value="Afficher la page d&#39;accueil" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-217" y="1210" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZPxUNIYuf-vSOhyrgH9L-15" value="Rechercher et Filtrer une prestation&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="170" width="140" height="70" as="geometry" />
+          <mxGeometry x="-90" y="160" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZPxUNIYuf-vSOhyrgH9L-16" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;exitX=0.214;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZPxUNIYuf-vSOhyrgH9L-15" target="ZPxUNIYuf-vSOhyrgH9L-13">
           <mxGeometry x="-0.0036" width="160" relative="1" as="geometry">
@@ -600,7 +584,7 @@
           <mxGeometry x="90" y="160" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZPxUNIYuf-vSOhyrgH9L-21" value="Réserver" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
-          <mxGeometry x="277" y="179" width="137" height="64" as="geometry" />
+          <mxGeometry x="320" y="166" width="137" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
