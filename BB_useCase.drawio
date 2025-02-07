@@ -437,7 +437,7 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZPxUNIYuf-vSOhyrgH9L-7" value="Réserver" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="1" vertex="1">
+        <mxCell id="ZPxUNIYuf-vSOhyrgH9L-7" value="Réserver une prestation" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="1" vertex="1">
           <mxGeometry x="1120" y="-549" width="137" height="64" as="geometry" />
         </mxCell>
         <mxCell id="ZPxUNIYuf-vSOhyrgH9L-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.381;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ZPxUNIYuf-vSOhyrgH9L-9" target="JcrogjCkA5fSQEfnVnb9-29" edge="1">
