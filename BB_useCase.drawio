@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="Page-1" id="6ZYqpIRizQXzz5DhEBzc">
-    <mxGraphModel dx="8667" dy="4243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6444" dy="3100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -774,6 +774,16 @@
           <mxGeometry x="-0.0036" width="160" relative="1" as="geometry">
             <mxPoint x="180" y="1945" as="sourcePoint" />
             <mxPoint x="184" y="1754" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Heh1qQOqi5pZwSqlsJJe-9" value="Se déconnecter" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="1643" width="117" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="Heh1qQOqi5pZwSqlsJJe-10" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Heh1qQOqi5pZwSqlsJJe-9" target="O4oYYWf4ppTde2RlQpEJ-32">
+          <mxGeometry x="-0.0036" width="160" relative="1" as="geometry">
+            <mxPoint x="64" y="1740" as="sourcePoint" />
+            <mxPoint x="-94" y="1781" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
