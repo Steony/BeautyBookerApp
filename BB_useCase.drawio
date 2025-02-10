@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="Page-1" id="6ZYqpIRizQXzz5DhEBzc">
-    <mxGraphModel dx="6444" dy="3100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5834" dy="2786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -648,9 +648,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O4oYYWf4ppTde2RlQpEJ-39" value="&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Personnaliser son profil&lt;/strong&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(photo, description, compétences, etc.).&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="1400" width="160" height="90" as="geometry" />
+          <mxGeometry x="440" y="1430" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="O4oYYWf4ppTde2RlQpEJ-40" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.328;exitY=0.971;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="O4oYYWf4ppTde2RlQpEJ-39" target="ZPxUNIYuf-vSOhyrgH9L-40" edge="1">
+        <mxCell id="O4oYYWf4ppTde2RlQpEJ-40" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.328;exitY=0.971;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="O4oYYWf4ppTde2RlQpEJ-39" target="ZPxUNIYuf-vSOhyrgH9L-40" edge="1">
           <mxGeometry x="-0.0036" width="160" relative="1" as="geometry">
             <mxPoint x="620" y="1600" as="sourcePoint" />
             <mxPoint x="536" y="1628" as="targetPoint" />
@@ -709,7 +709,7 @@
           <mxGeometry x="897" y="1380" width="117" height="62" as="geometry" />
         </mxCell>
         <mxCell id="O4oYYWf4ppTde2RlQpEJ-55" value="Modifier son profil" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="667" y="1376" width="140" height="70" as="geometry" />
+          <mxGeometry x="680" y="1400" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="O4oYYWf4ppTde2RlQpEJ-56" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;entryX=0.983;entryY=0.414;entryDx=0;entryDy=0;exitX=0.042;exitY=0.674;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="O4oYYWf4ppTde2RlQpEJ-55" target="O4oYYWf4ppTde2RlQpEJ-39" edge="1">
           <mxGeometry x="-0.0036" width="160" relative="1" as="geometry">
@@ -778,14 +778,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Heh1qQOqi5pZwSqlsJJe-9" value="Se déconnecter" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="1643" width="117" height="57" as="geometry" />
+          <mxGeometry x="-310" y="1653" width="117" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="Heh1qQOqi5pZwSqlsJJe-10" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Heh1qQOqi5pZwSqlsJJe-9" target="O4oYYWf4ppTde2RlQpEJ-32">
+        <mxCell id="Heh1qQOqi5pZwSqlsJJe-10" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Heh1qQOqi5pZwSqlsJJe-9" target="O4oYYWf4ppTde2RlQpEJ-32">
           <mxGeometry x="-0.0036" width="160" relative="1" as="geometry">
             <mxPoint x="64" y="1740" as="sourcePoint" />
             <mxPoint x="-94" y="1781" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Heh1qQOqi5pZwSqlsJJe-11" value="&lt;font&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Consulter les avis reçus&lt;/strong&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;et y répondre si nécessaire.&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="1490" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Heh1qQOqi5pZwSqlsJJe-12" value="&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Créer des partenariats&lt;/strong&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;avec d’autres prestataires ou entreprises (ex. : coiffeurs, photographes).&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="54.5" y="1450" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
