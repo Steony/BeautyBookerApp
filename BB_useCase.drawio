@@ -11,7 +11,7 @@
           <mxGeometry x="-815" y="1710" width="175" height="280" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Système Stripe &amp;lt;&amp;lt;secondaire&amp;gt;&amp;gt;&lt;/b&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=5;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="2100" y="-167" width="140" height="247" as="geometry" />
+          <mxGeometry x="2060" y="-230" width="180" height="310" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-530" y="-1570" width="2238.25" height="5217" as="geometry" />
@@ -351,7 +351,7 @@
           <mxGeometry x="905" y="1470" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-104" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Système modérateur&lt;/b&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=5;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="2070" y="720" width="143" height="280" as="geometry" />
+          <mxGeometry x="2068.5" y="701" width="163" height="310" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-105" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;elbow=vertical;" parent="1" source="JcrogjCkA5fSQEfnVnb9-35" target="JcrogjCkA5fSQEfnVnb9-104" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
