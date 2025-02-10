@@ -11,7 +11,7 @@
           <mxGeometry x="-815" y="1700" width="175" height="280" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-5" value="Système Stripe &amp;lt;&amp;lt;secondaire&amp;gt;&amp;gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2090" y="30" width="140" height="247" as="geometry" />
+          <mxGeometry x="2100" y="-167" width="140" height="247" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-475.25" y="-1400" width="2382.5" height="4320" as="geometry" />
