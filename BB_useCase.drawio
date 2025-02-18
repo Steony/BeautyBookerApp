@@ -851,10 +851,13 @@
           <mxGeometry x="1381" y="760" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="19OYA8eGWC_Ipobmx0Tn-8" value="Vérifier automatiquement si un avis respecte les règles du site (ex. : pas de langage inapproprié, pas de spam)." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2130" y="510" width="200" height="170" as="geometry" />
+          <mxGeometry x="2210" y="516" width="200" height="170" as="geometry" />
         </mxCell>
         <mxCell id="19OYA8eGWC_Ipobmx0Tn-11" value="Bloquer ou masquer automatiquement les avis contenant des propos offensants, de la publicité ou du contenu interdit." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="663.5" width="200" height="170" as="geometry" />
+          <mxGeometry x="1950" y="543.5" width="170" height="163.5" as="geometry" />
+        </mxCell>
+        <mxCell id="19OYA8eGWC_Ipobmx0Tn-12" value="Permettre aux utilisateurs (clients et prestataires) de signaler un avis comme inapproprié." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="730" width="160" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
