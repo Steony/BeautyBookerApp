@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
   <diagram name="Page-1" id="6ZYqpIRizQXzz5DhEBzc">
-    <mxGraphModel dx="6054" dy="2904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7771" dy="3792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -858,13 +858,13 @@
         <mxCell id="19OYA8eGWC_Ipobmx0Tn-8" value="Détection et blocage des avis contenant du spam, des insultes ou du contenu inapproprié." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1940" y="1150" width="180" height="136" as="geometry" />
         </mxCell>
-        <mxCell id="19OYA8eGWC_Ipobmx0Tn-11" value="Vérification que l’auteur de l’avis a bien effectué une réservation avant de publier." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="19OYA8eGWC_Ipobmx0Tn-11" value="Vérification que l’auteur de l’avis a bien effectué une réservation avant de publier." style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="2160" y="850" width="170" height="117" as="geometry" />
         </mxCell>
-        <mxCell id="19OYA8eGWC_Ipobmx0Tn-12" value="&#xa;Notifie un administrateur si un avis reçoit plusieurs signalements.&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1920" y="860" width="170" height="100" as="geometry" />
+        <mxCell id="19OYA8eGWC_Ipobmx0Tn-12" value="&#xa;Notifie un administrateur si un avis reçoit plusieurs signalements.&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="853.5" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="19OYA8eGWC_Ipobmx0Tn-15" value="Supprime automatiquement les avis non conformes aux politiques du site." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="19OYA8eGWC_Ipobmx0Tn-15" value="Supprime automatiquement les avis non conformes aux politiques du site." style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1750" y="1010" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="19OYA8eGWC_Ipobmx0Tn-17" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="19OYA8eGWC_Ipobmx0Tn-5" target="19OYA8eGWC_Ipobmx0Tn-1">
@@ -935,6 +935,34 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1620" y="871" as="sourcePoint" />
             <mxPoint x="2879" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="19OYA8eGWC_Ipobmx0Tn-36" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;entryX=0.369;entryY=0.94;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="19OYA8eGWC_Ipobmx0Tn-8" target="19OYA8eGWC_Ipobmx0Tn-33">
+          <mxGeometry x="-0.0037" width="160" relative="1" as="geometry">
+            <mxPoint x="1302" y="1703" as="sourcePoint" />
+            <mxPoint x="1241" y="1670" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="19OYA8eGWC_Ipobmx0Tn-37" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.957;exitY=0.625;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="19OYA8eGWC_Ipobmx0Tn-15" target="19OYA8eGWC_Ipobmx0Tn-33">
+          <mxGeometry x="-0.0037" width="160" relative="1" as="geometry">
+            <mxPoint x="1940" y="1120" as="sourcePoint" />
+            <mxPoint x="1985" y="1050" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="19OYA8eGWC_Ipobmx0Tn-38" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;entryX=0.326;entryY=0.092;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="19OYA8eGWC_Ipobmx0Tn-12" target="19OYA8eGWC_Ipobmx0Tn-33">
+          <mxGeometry x="-0.0037" width="160" relative="1" as="geometry">
+            <mxPoint x="1961.5" y="1008" as="sourcePoint" />
+            <mxPoint x="2098.5" y="990" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="19OYA8eGWC_Ipobmx0Tn-39" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;exitX=0.235;exitY=0.917;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="19OYA8eGWC_Ipobmx0Tn-11" target="19OYA8eGWC_Ipobmx0Tn-33">
+          <mxGeometry x="-0.0037" width="160" relative="1" as="geometry">
+            <mxPoint x="2140" y="963.5" as="sourcePoint" />
+            <mxPoint x="2255" y="1025.5" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
