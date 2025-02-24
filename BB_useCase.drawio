@@ -75,7 +75,7 @@
           <mxGeometry x="40" y="7580" width="270" height="120" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-28" value="Email validation inscription" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="569.62" y="7640" width="244.5" height="134" as="geometry" />
+          <mxGeometry x="583" y="7560" width="244.5" height="134" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;endArrow=block;endFill=0;" edge="1" parent="1" source="cOFafU3NJYGwsE9WCvxB-28" target="cOFafU3NJYGwsE9WCvxB-27">
           <mxGeometry relative="1" as="geometry">
