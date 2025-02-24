@@ -697,7 +697,7 @@
           <mxGeometry x="530" y="13134" width="310" height="180" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-167" value="Modifier les informations des utilisateurs" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-840" y="11981" width="270" height="130" as="geometry" />
+          <mxGeometry x="-840" y="11960" width="270" height="130" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-168" value="Consulter la liste des utilisateurs (clients et prestataires)" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
           <mxGeometry x="-1079.25" y="12874" width="317.75" height="160" as="geometry" />
@@ -944,10 +944,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-217" value="Envoyer Email" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="11914" width="230" height="132" as="geometry" />
+          <mxGeometry x="-310" y="11890" width="230" height="132" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-218" value="Email création de compte" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="62" y="11890" width="346" height="112" as="geometry" />
+          <mxGeometry x="89.63" y="11882" width="346" height="112" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-219" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;" edge="1" parent="1" source="cOFafU3NJYGwsE9WCvxB-167" target="cOFafU3NJYGwsE9WCvxB-217">
           <mxGeometry x="-0.1858" y="3" width="160" relative="1" as="geometry">
@@ -2192,7 +2192,10 @@
           <mxGeometry x="-138" y="-584" width="390" height="176" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-238" value="Rechercher et Filtrer une prestation&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="15.5" y="8170" width="384.5" height="170" as="geometry" />
+          <mxGeometry x="-52" y="8080" width="384.5" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="cOFafU3NJYGwsE9WCvxB-247" value="Rechercher et Filtrer une prestation par localisation" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;fontSize=26;container=0;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="8380" width="384.5" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
