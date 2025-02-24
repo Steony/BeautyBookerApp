@@ -271,8 +271,8 @@
             <mxPoint x="-968.4999999999418" y="10929" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cOFafU3NJYGwsE9WCvxB-68" value="Ajouter une prestation (prix, durée, description, lieu)" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1064.25" y="10880" width="387" height="110" as="geometry" />
+        <mxCell id="cOFafU3NJYGwsE9WCvxB-68" value="Ajouter une prestation (catégorie, prix, durée, description, lieu)" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="10870" width="411.25" height="120" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-69" value="Mettre à jour le prix article" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
           <mxGeometry x="2225" y="10454" width="280" height="90" as="geometry" />
@@ -532,7 +532,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-136" value="Modifier une prestation" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1467.75" y="11040" width="230" height="110" as="geometry" />
+          <mxGeometry x="1300" y="11066" width="230" height="110" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-137" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;entryX=0.601;entryY=1.012;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="cOFafU3NJYGwsE9WCvxB-136" target="cOFafU3NJYGwsE9WCvxB-68">
           <mxGeometry x="-0.0037" width="160" relative="1" as="geometry">
