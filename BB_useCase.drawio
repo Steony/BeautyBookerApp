@@ -94,7 +94,7 @@
           <mxGeometry x="-1089.75" y="8510" width="229.75" height="134.5" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-32" value="Réserver une prestation" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="623.75" y="8260" width="272.5" height="100" as="geometry" />
+          <mxGeometry x="673" y="8260" width="272.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-33" value="Afficher détail d&#39;une réservation" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=26;container=0;" vertex="1" parent="1">
           <mxGeometry x="1160" y="9390" width="260" height="170" as="geometry" />
@@ -196,7 +196,7 @@
         <mxCell id="cOFafU3NJYGwsE9WCvxB-52" value="Envoyer Email" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;fontSize=26;container=0;" vertex="1" parent="1">
           <mxGeometry x="1646.25" y="8860" width="230" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="cOFafU3NJYGwsE9WCvxB-53" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;exitX=0.945;exitY=0.681;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cOFafU3NJYGwsE9WCvxB-47" target="cOFafU3NJYGwsE9WCvxB-52">
+        <mxCell id="cOFafU3NJYGwsE9WCvxB-53" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;exitX=0.945;exitY=0.681;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cOFafU3NJYGwsE9WCvxB-47" target="cOFafU3NJYGwsE9WCvxB-52">
           <mxGeometry x="0.0103" width="160" relative="1" as="geometry">
             <mxPoint x="-706" y="8581" as="sourcePoint" />
             <mxPoint x="-769" y="8610" as="targetPoint" />
@@ -2192,7 +2192,7 @@
           <mxGeometry x="-138" y="-584" width="390" height="176" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-238" value="Rechercher et Filtrer une prestation&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-84.75" y="8160" width="384.5" height="170" as="geometry" />
+          <mxGeometry x="15.5" y="8170" width="384.5" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
