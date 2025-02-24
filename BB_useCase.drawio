@@ -245,10 +245,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-62" value="Gérer les cartes de paiement" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="8814" width="202.5" height="110" as="geometry" />
+          <mxGeometry x="24.75" y="8818" width="202.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-63" value="Gérer les adresses" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="252" y="8832" width="230" height="82" as="geometry" />
+          <mxGeometry x="320" y="8846" width="230" height="82" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-64" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;" edge="1" parent="1" source="cOFafU3NJYGwsE9WCvxB-62" target="cOFafU3NJYGwsE9WCvxB-44">
           <mxGeometry x="-0.19" width="160" relative="1" as="geometry">
@@ -293,7 +293,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-73" value="Payer" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1936.25" y="8420" width="240" height="80" as="geometry" />
+          <mxGeometry x="1972.25" y="8410" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-74" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cOFafU3NJYGwsE9WCvxB-32" target="cOFafU3NJYGwsE9WCvxB-111">
           <mxGeometry x="-0.0506" y="1" width="160" relative="1" as="geometry">
@@ -501,7 +501,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-128" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Personnaliser son profil&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(photo, description).&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="482" y="10628" width="344" height="180" as="geometry" />
+          <mxGeometry x="564.25" y="10628" width="344" height="180" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-129" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;entryX=0.756;entryY=0.111;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cOFafU3NJYGwsE9WCvxB-128" target="cOFafU3NJYGwsE9WCvxB-96">
           <mxGeometry x="-0.0036" width="160" relative="1" as="geometry">
@@ -559,10 +559,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-138" value="Envoyer Email" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="10464" width="233" height="75" as="geometry" />
+          <mxGeometry x="1519" y="10464" width="233" height="75" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-139" value="Modifier son profil" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1002" y="10569.75" width="275" height="104" as="geometry" />
+          <mxGeometry x="1080" y="10544" width="275" height="104" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-140" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;entryX=0.983;entryY=0.414;entryDx=0;entryDy=0;exitX=0.042;exitY=0.674;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="cOFafU3NJYGwsE9WCvxB-139" target="cOFafU3NJYGwsE9WCvxB-128">
           <mxGeometry x="-0.0036" width="160" relative="1" as="geometry">
@@ -589,7 +589,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-144" value="Email&amp;nbsp; Modification" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1825" y="10334" width="231.25" height="90" as="geometry" />
+          <mxGeometry x="1888.75" y="10334" width="231.25" height="90" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-145" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;endArrow=block;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cOFafU3NJYGwsE9WCvxB-144" target="cOFafU3NJYGwsE9WCvxB-138">
           <mxGeometry relative="1" as="geometry">
@@ -644,7 +644,7 @@
           <mxGeometry x="-785" y="10514" width="285" height="150" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-156" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Créer des partenariats&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;avec d’autres prestataires ou entreprises (ex. : coiffeurs, photographes).&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-417.1300000000001" y="10424" width="401.25" height="245" as="geometry" />
+          <mxGeometry x="-350.0000000000001" y="10464" width="401.25" height="245" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-157" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;entryX=0.375;entryY=0.05;entryDx=0;entryDy=0;exitX=0.699;exitY=0.997;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="cOFafU3NJYGwsE9WCvxB-155" target="cOFafU3NJYGwsE9WCvxB-125">
           <mxGeometry x="-0.0036" width="160" relative="1" as="geometry">
@@ -947,7 +947,7 @@
           <mxGeometry x="-370" y="11914" width="230" height="132" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-218" value="Email création de compte" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="77" y="11854" width="346" height="112" as="geometry" />
+          <mxGeometry x="62" y="11890" width="346" height="112" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-219" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;" edge="1" parent="1" source="cOFafU3NJYGwsE9WCvxB-167" target="cOFafU3NJYGwsE9WCvxB-217">
           <mxGeometry x="-0.1858" y="3" width="160" relative="1" as="geometry">
