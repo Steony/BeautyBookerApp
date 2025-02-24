@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="6ZYqpIRizQXzz5DhEBzc">
-    <mxGraphModel dx="14522" dy="7258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="12132" dy="6028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,7 +169,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-62" value="Annuler une réservation" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;" parent="1" vertex="1">
-          <mxGeometry x="2000" y="1260" width="266.5" height="130" as="geometry" />
+          <mxGeometry x="2013.5" y="1220" width="266.5" height="130" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-63" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;" parent="1" source="JcrogjCkA5fSQEfnVnb9-62" target="JcrogjCkA5fSQEfnVnb9-53" edge="1">
           <mxGeometry x="0.0123" width="160" relative="1" as="geometry">
@@ -179,7 +179,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-64" value="Envoyer Email" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;fontSize=26;" parent="1" vertex="1">
-          <mxGeometry x="1800" y="1476" width="210" height="110" as="geometry" />
+          <mxGeometry x="1840.25" y="1400" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-65" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;exitX=0.395;exitY=0.948;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="JcrogjCkA5fSQEfnVnb9-62" target="JcrogjCkA5fSQEfnVnb9-64" edge="1">
           <mxGeometry x="-0.1704" y="-2" width="160" relative="1" as="geometry">
@@ -190,7 +190,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-66" value="Email Annulation de la réservation" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;" parent="1" vertex="1">
-          <mxGeometry x="2074.75" y="1620" width="280" height="120" as="geometry" />
+          <mxGeometry x="2050.25" y="1584.5" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-67" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;endArrow=block;endFill=0;" parent="1" source="JcrogjCkA5fSQEfnVnb9-66" target="JcrogjCkA5fSQEfnVnb9-64" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -533,7 +533,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O4oYYWf4ppTde2RlQpEJ-12" value="Modifier une réservation" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;" parent="1" vertex="1">
-          <mxGeometry x="1560" y="1260" width="270" height="130" as="geometry" />
+          <mxGeometry x="1590" y="1200" width="270" height="130" as="geometry" />
         </mxCell>
         <mxCell id="O4oYYWf4ppTde2RlQpEJ-13" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="O4oYYWf4ppTde2RlQpEJ-12" target="JcrogjCkA5fSQEfnVnb9-53" edge="1">
           <mxGeometry x="0.0123" width="160" relative="1" as="geometry">
@@ -982,7 +982,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ag9Fs28pgx7X8oVgpacB-9" value="Email création de compte" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="2592.25" y="3480" width="321.5" height="100" as="geometry" />
+          <mxGeometry x="2555" y="3520" width="321.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ag9Fs28pgx7X8oVgpacB-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;endArrow=block;endFill=0;" edge="1" parent="1" source="Ag9Fs28pgx7X8oVgpacB-9" target="qsa12DrgsB_q8UX1n0Io-4">
           <mxGeometry relative="1" as="geometry">
@@ -991,7 +991,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ag9Fs28pgx7X8oVgpacB-11" value="Email suppression de compte" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="2583" y="3682" width="340" height="140" as="geometry" />
+          <mxGeometry x="2530" y="3700" width="340" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Ag9Fs28pgx7X8oVgpacB-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;endArrow=block;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ag9Fs28pgx7X8oVgpacB-11" target="Ag9Fs28pgx7X8oVgpacB-22">
           <mxGeometry relative="1" as="geometry">
@@ -1010,7 +1010,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ag9Fs28pgx7X8oVgpacB-17" value="Supprimer un compte utilisateur&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="1421.5" y="3700" width="345.5" height="140" as="geometry" />
+          <mxGeometry x="1423" y="3730" width="345.5" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Ag9Fs28pgx7X8oVgpacB-18" value="Suspendre un compte utilisateur&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="1">
           <mxGeometry x="1423" y="3950" width="302.5" height="120" as="geometry" />
@@ -1037,7 +1037,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ag9Fs28pgx7X8oVgpacB-22" value="Envoyer Email" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="2033.5" y="3720" width="237" height="100" as="geometry" />
+          <mxGeometry x="2068.25" y="3720" width="237" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ag9Fs28pgx7X8oVgpacB-23" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ag9Fs28pgx7X8oVgpacB-18" target="Ag9Fs28pgx7X8oVgpacB-24">
           <mxGeometry x="-0.1858" y="3" width="160" relative="1" as="geometry">
@@ -1047,7 +1047,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ag9Fs28pgx7X8oVgpacB-24" value="Envoyer Email" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="2020" y="3930" width="287" height="100" as="geometry" />
+          <mxGeometry x="2043.25" y="3960" width="287" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ag9Fs28pgx7X8oVgpacB-25" value="Email suspension de compte" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="1">
           <mxGeometry x="2570" y="3940" width="308.5" height="140" as="geometry" />
@@ -1121,7 +1121,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ag9Fs28pgx7X8oVgpacB-44" value="Email Modification de la réservation" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="1646.25" y="1670" width="290" height="117" as="geometry" />
+          <mxGeometry x="1646.25" y="1587.5" width="290" height="117" as="geometry" />
         </mxCell>
         <mxCell id="Ag9Fs28pgx7X8oVgpacB-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;endArrow=block;endFill=0;entryX=0.314;entryY=0.964;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ag9Fs28pgx7X8oVgpacB-44" target="JcrogjCkA5fSQEfnVnb9-64">
           <mxGeometry relative="1" as="geometry">
