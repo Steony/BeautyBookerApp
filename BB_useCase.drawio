@@ -532,7 +532,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-136" value="Modifier une prestation" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="11066" width="230" height="110" as="geometry" />
+          <mxGeometry x="1289" y="11080" width="230" height="110" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-137" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;entryX=0.601;entryY=1.012;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="cOFafU3NJYGwsE9WCvxB-136" target="cOFafU3NJYGwsE9WCvxB-68">
           <mxGeometry x="-0.0037" width="160" relative="1" as="geometry">
@@ -562,7 +562,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-142" value="&lt;font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Consulter son calendrier&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;des réservations (à venir et passées).&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="502.5" y="11240" width="390" height="170" as="geometry" />
+          <mxGeometry x="482" y="11190" width="390" height="170" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-143" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;exitX=0.318;exitY=0.06;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.693;entryY=0.943;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cOFafU3NJYGwsE9WCvxB-142" target="cOFafU3NJYGwsE9WCvxB-96">
           <mxGeometry x="0.0003" width="160" relative="1" as="geometry">
@@ -572,9 +572,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-144" value="Email&amp;nbsp; Modification" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1888.75" y="10334" width="231.25" height="90" as="geometry" />
+          <mxGeometry x="1940" y="10300" width="231.25" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="cOFafU3NJYGwsE9WCvxB-145" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;endArrow=block;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cOFafU3NJYGwsE9WCvxB-144" target="cOFafU3NJYGwsE9WCvxB-138">
+        <mxCell id="cOFafU3NJYGwsE9WCvxB-145" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;endArrow=block;endFill=0;exitX=0.086;exitY=0.8;exitDx=0;exitDy=0;entryX=0.94;entryY=0.347;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="cOFafU3NJYGwsE9WCvxB-144" target="cOFafU3NJYGwsE9WCvxB-138">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1600" y="10179" as="sourcePoint" />
             <mxPoint x="400" y="9964" as="targetPoint" />
@@ -644,9 +644,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-159" value="Gérer les cartes de paiement" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="10684" width="265.25" height="131" as="geometry" />
+          <mxGeometry x="130.01" y="10680" width="265.25" height="131" as="geometry" />
         </mxCell>
-        <mxCell id="cOFafU3NJYGwsE9WCvxB-160" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;entryX=0.288;entryY=0.111;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cOFafU3NJYGwsE9WCvxB-159" target="cOFafU3NJYGwsE9WCvxB-96">
+        <mxCell id="cOFafU3NJYGwsE9WCvxB-160" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;entryX=0.405;entryY=0.043;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cOFafU3NJYGwsE9WCvxB-159" target="cOFafU3NJYGwsE9WCvxB-96">
           <mxGeometry x="-0.0036" width="160" relative="1" as="geometry">
             <mxPoint x="-142" y="10081" as="sourcePoint" />
             <mxPoint x="450" y="10994" as="targetPoint" />
@@ -812,7 +812,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-193" value="Envoyer Email" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="2010" y="11424" width="230" height="130" as="geometry" />
+          <mxGeometry x="2013.5" y="11424" width="230" height="130" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-194" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;" edge="1" parent="1" source="cOFafU3NJYGwsE9WCvxB-193" target="cOFafU3NJYGwsE9WCvxB-172">
           <mxGeometry x="-0.1858" y="3" width="160" relative="1" as="geometry">
