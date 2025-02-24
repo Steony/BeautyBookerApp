@@ -69,7 +69,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-26" value="Afficher les réservations en cours et passées" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="176" y="9500" width="340" height="130" as="geometry" />
+          <mxGeometry x="40" y="9480" width="340" height="130" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-27" value="Envoyer Email" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;fontSize=26;container=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="7580" width="270" height="120" as="geometry" />
@@ -163,10 +163,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-46" value="Modifier les infos du profil" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="857" y="9065.75" width="223" height="108.25" as="geometry" />
+          <mxGeometry x="857" y="9065.75" width="253" height="104.25" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-47" value="Modifier password" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="840" y="8900.75" width="213" height="113.5" as="geometry" />
+          <mxGeometry x="840" y="8900" width="260" height="114.25" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-48" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;" edge="1" parent="1" source="cOFafU3NJYGwsE9WCvxB-47" target="cOFafU3NJYGwsE9WCvxB-44">
           <mxGeometry x="-0.1977" width="160" relative="1" as="geometry">
@@ -184,7 +184,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-50" value="Supprimer&amp;nbsp; compte" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="896.25" y="9220" width="194" height="90" as="geometry" />
+          <mxGeometry x="896.25" y="9220" width="213.75" height="110" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-51" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;entryX=0.648;entryY=0.976;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cOFafU3NJYGwsE9WCvxB-50" target="cOFafU3NJYGwsE9WCvxB-44">
           <mxGeometry x="-0.1482" y="1" width="160" relative="1" as="geometry">
@@ -245,10 +245,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-62" value="Gérer les cartes de paiement" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="24.75" y="8818" width="202.5" height="110" as="geometry" />
+          <mxGeometry x="-20" y="8800" width="247.25" height="128" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-63" value="Gérer les adresses" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="8846" width="230" height="82" as="geometry" />
+          <mxGeometry x="320" y="8810" width="280" height="118" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-64" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;" edge="1" parent="1" source="cOFafU3NJYGwsE9WCvxB-62" target="cOFafU3NJYGwsE9WCvxB-44">
           <mxGeometry x="-0.19" width="160" relative="1" as="geometry">
