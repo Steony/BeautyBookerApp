@@ -698,7 +698,7 @@
           <mxGeometry x="1959.75" y="11194" width="370.5" height="130" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-173" value="Modérer les messages entre clients et prestataires (bloquer ou signaler du contenu inapproprié)." style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="2229.25" y="10914" width="410" height="200" as="geometry" />
+          <mxGeometry x="2220.75" y="10906" width="410" height="200" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-174" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;exitX=0.097;exitY=0.79;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.777;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cOFafU3NJYGwsE9WCvxB-169" target="cOFafU3NJYGwsE9WCvxB-203">
           <mxGeometry x="-0.0036" width="160" relative="1" as="geometry">
@@ -762,7 +762,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-184" value="Accéder au paramètre Modérateur" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="2620" y="11144" width="292" height="180" as="geometry" />
+          <mxGeometry x="2640" y="11160" width="292" height="180" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-185" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="cOFafU3NJYGwsE9WCvxB-184" target="cOFafU3NJYGwsE9WCvxB-71">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
