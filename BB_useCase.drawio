@@ -20,7 +20,7 @@
           <mxGeometry x="3458.5" y="8360" width="180" height="310" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-6" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-1310" y="6700" width="4435" height="6780" as="geometry" />
+          <mxGeometry x="-1333.25" y="6730" width="4435" height="6780" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;container=0;direction=west;fontSize=26;gradientColor=#b3b3b3;" vertex="1" parent="1">
           <mxGeometry x="-1177.5" y="6784" width="270" height="170" as="geometry" />
@@ -272,13 +272,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-68" value="Ajouter une prestation (catégorie, prix, durée, description, lieu)" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="10870" width="411.25" height="120" as="geometry" />
+          <mxGeometry x="1030" y="10880" width="411.25" height="120" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-69" value="Mettre à jour le prix article" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
           <mxGeometry x="2225" y="10454" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-70" value="Ajouter des promotions" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1923.5" y="10780" width="310" height="110" as="geometry" />
+          <mxGeometry x="1890" y="10740" width="310" height="110" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-71" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Système modérateur&lt;/b&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=5;shadow=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="3458.5" y="10154" width="163" height="310" as="geometry" />
@@ -498,7 +498,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-128" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Personnaliser son profil&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(photo, description).&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="10673.75" width="344" height="180" as="geometry" />
+          <mxGeometry x="583" y="10690" width="344" height="180" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-129" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;entryX=0.756;entryY=0.111;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cOFafU3NJYGwsE9WCvxB-128" target="cOFafU3NJYGwsE9WCvxB-96">
           <mxGeometry x="-0.0036" width="160" relative="1" as="geometry">
@@ -508,7 +508,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-132" value="Ajouter le prix&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="10628" width="230" height="110" as="geometry" />
+          <mxGeometry x="1610" y="10599" width="230" height="110" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-133" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.753;entryY=0.08;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cOFafU3NJYGwsE9WCvxB-132" target="cOFafU3NJYGwsE9WCvxB-68">
           <mxGeometry x="-0.0036" width="160" relative="1" as="geometry">
@@ -532,9 +532,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-136" value="Modifier une prestation" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1289" y="11080" width="230" height="110" as="geometry" />
+          <mxGeometry x="1265" y="11094" width="230" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="cOFafU3NJYGwsE9WCvxB-137" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;entryX=0.601;entryY=1.012;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="cOFafU3NJYGwsE9WCvxB-136" target="cOFafU3NJYGwsE9WCvxB-68">
+        <mxCell id="cOFafU3NJYGwsE9WCvxB-137" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;entryX=0.601;entryY=1.012;entryDx=0;entryDy=0;exitX=0.304;exitY=0.091;exitDx=0;exitDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="cOFafU3NJYGwsE9WCvxB-136" target="cOFafU3NJYGwsE9WCvxB-68">
           <mxGeometry x="-0.0037" width="160" relative="1" as="geometry">
             <mxPoint x="232.5" y="10404" as="sourcePoint" />
             <mxPoint x="84.5" y="10394" as="targetPoint" />
@@ -562,7 +562,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-142" value="&lt;font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Consulter son calendrier&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;des réservations (à venir et passées).&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="482" y="11190" width="390" height="170" as="geometry" />
+          <mxGeometry x="448.75" y="11226" width="390" height="170" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-143" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;exitX=0.318;exitY=0.06;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.693;entryY=0.943;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cOFafU3NJYGwsE9WCvxB-142" target="cOFafU3NJYGwsE9WCvxB-96">
           <mxGeometry x="0.0003" width="160" relative="1" as="geometry">
@@ -2182,6 +2182,13 @@
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-248" value="&amp;nbsp;par catégorie" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;fontSize=26;container=0;" vertex="1" parent="1">
           <mxGeometry x="195.25" y="8380" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cOFafU3NJYGwsE9WCvxB-249" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;exitX=0.049;exitY=0.717;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cOFafU3NJYGwsE9WCvxB-68" target="cOFafU3NJYGwsE9WCvxB-96">
+          <mxGeometry x="-0.0036" width="160" relative="1" as="geometry">
+            <mxPoint x="880" y="10969" as="sourcePoint" />
+            <mxPoint x="651" y="11094" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
