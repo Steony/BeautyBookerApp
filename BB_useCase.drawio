@@ -2178,7 +2178,7 @@
           <mxGeometry x="-510" y="8410" width="384.5" height="170" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-247" value="&amp;nbsp;par localisation" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
-          <mxGeometry x="115.63" y="8140" width="320" height="120" as="geometry" />
+          <mxGeometry x="162" y="8129" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="cOFafU3NJYGwsE9WCvxB-248" value="&amp;nbsp;par catégorie" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontSize=26;container=0;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="170" y="8350" width="320" height="120" as="geometry" />
