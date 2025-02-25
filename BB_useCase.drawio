@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="6ZYqpIRizQXzz5DhEBzc">
-    <mxGraphModel dx="8258" dy="6943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7709" dy="6370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1072,7 +1072,7 @@
         <mxCell id="Ag9Fs28pgx7X8oVgpacB-65" value="Signaler un client" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="uC5Lagubd8C8kVA8-hUs-71" vertex="1">
           <mxGeometry x="1140" y="6300" width="355.88" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Ag9Fs28pgx7X8oVgpacB-66" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;entryX=0.744;entryY=0.939;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="uC5Lagubd8C8kVA8-hUs-71" source="Ag9Fs28pgx7X8oVgpacB-65" target="Heh1qQOqi5pZwSqlsJJe-7" edge="1">
+        <mxCell id="Ag9Fs28pgx7X8oVgpacB-66" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.577;exitY=0.042;exitDx=0;exitDy=0;exitPerimeter=0;" parent="uC5Lagubd8C8kVA8-hUs-71" source="Ag9Fs28pgx7X8oVgpacB-65" target="Heh1qQOqi5pZwSqlsJJe-7" edge="1">
           <mxGeometry x="-0.0036" width="160" relative="1" as="geometry">
             <mxPoint x="2386" y="5797" as="sourcePoint" />
             <mxPoint x="2213" y="5610" as="targetPoint" />
