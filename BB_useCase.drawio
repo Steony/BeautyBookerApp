@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="6ZYqpIRizQXzz5DhEBzc">
-    <mxGraphModel dx="6693" dy="5470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7352" dy="4667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1715,16 +1715,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uC5Lagubd8C8kVA8-hUs-167" value="&lt;font&gt;Partager une prestation ou un profil de prestataire&amp;nbsp;via WhatsApp, e-mail ou réseaux sociaux&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="2620" y="7620" width="470" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="uC5Lagubd8C8kVA8-hUs-168" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uC5Lagubd8C8kVA8-hUs-167" target="uC5Lagubd8C8kVA8-hUs-83">
-          <mxGeometry x="-0.0885" y="4" width="160" relative="1" as="geometry">
-            <mxPoint x="1264.25" y="9300" as="sourcePoint" />
-            <mxPoint x="1159.25" y="9368" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="uC5Lagubd8C8kVA8-hUs-169" value="&lt;font&gt;Consulter les articles ou tutoriels&amp;nbsp;disponibles&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="10389.5" width="320" height="129" as="geometry" />
         </mxCell>
@@ -1795,13 +1785,6 @@
         </mxCell>
         <mxCell id="uC5Lagubd8C8kVA8-hUs-182" value="&lt;font&gt;Créer une liste de favoris&amp;nbsp;pour sauvegarder des prestataires&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
           <mxGeometry x="557.5" y="10420" width="340" height="165" as="geometry" />
-        </mxCell>
-        <mxCell id="uC5Lagubd8C8kVA8-hUs-183" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="uC5Lagubd8C8kVA8-hUs-292" target="uC5Lagubd8C8kVA8-hUs-293">
-          <mxGeometry x="0.4861" y="-6" width="160" relative="1" as="geometry">
-            <mxPoint x="650" y="9390" as="sourcePoint" />
-            <mxPoint x="430" y="9257" as="targetPoint" />
-            <mxPoint x="1" y="1" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="uC5Lagubd8C8kVA8-hUs-184" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;entryX=0.764;entryY=0.958;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uC5Lagubd8C8kVA8-hUs-182" target="uC5Lagubd8C8kVA8-hUs-170">
           <mxGeometry x="-0.0152" width="160" relative="1" as="geometry">
@@ -2332,9 +2315,6 @@
             <mxPoint x="1343" y="12840" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="uC5Lagubd8C8kVA8-hUs-292" value="&lt;font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Accéder à la FAQ et aux politiques du site&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;(conditions générales, politique d&#39;annulation, etc.).&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="532.5" y="7530" width="390" height="176" as="geometry" />
         </mxCell>
         <mxCell id="uC5Lagubd8C8kVA8-hUs-293" value="Activer ou Refuser la Géolocalisation" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;fontSize=26;container=0;gradientColor=#d5739d;" vertex="1" parent="1">
           <mxGeometry x="517.25" y="7930" width="384.5" height="170" as="geometry" />
