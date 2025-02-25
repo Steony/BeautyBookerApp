@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="6ZYqpIRizQXzz5DhEBzc">
-    <mxGraphModel dx="12132" dy="6987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="10698" dy="6291" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -807,7 +807,7 @@
           <mxGeometry x="2748.5" y="2720" width="370.5" height="130" as="geometry" />
         </mxCell>
         <mxCell id="19OYA8eGWC_Ipobmx0Tn-15" value="Modérer les messages entre clients et prestataires (bloquer ou signaler du contenu inapproprié)." style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=26;container=0;" parent="1" vertex="1">
-          <mxGeometry x="2979.25" y="2440" width="410" height="200" as="geometry" />
+          <mxGeometry x="2980" y="2400" width="410" height="200" as="geometry" />
         </mxCell>
         <mxCell id="19OYA8eGWC_Ipobmx0Tn-17" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;exitX=0.097;exitY=0.79;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.777;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="19OYA8eGWC_Ipobmx0Tn-5" target="Ag9Fs28pgx7X8oVgpacB-15" edge="1">
           <mxGeometry x="-0.0036" width="160" relative="1" as="geometry">
@@ -911,7 +911,7 @@
           <mxGeometry x="2020" y="3540" width="255.25" height="82" as="geometry" />
         </mxCell>
         <mxCell id="Ag9Fs28pgx7X8oVgpacB-1" value="&lt;br&gt;Notifie un administrateur si un avis ou un utilisateur reçoit plusieurs signalements.&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=26;container=0;" parent="1" vertex="1">
-          <mxGeometry x="3390" y="3010" width="400" height="200" as="geometry" />
+          <mxGeometry x="3320" y="2990" width="470" height="240" as="geometry" />
         </mxCell>
         <mxCell id="Ag9Fs28pgx7X8oVgpacB-2" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;entryX=0.6;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Ag9Fs28pgx7X8oVgpacB-1" target="19OYA8eGWC_Ipobmx0Tn-33" edge="1">
           <mxGeometry x="-0.0037" width="160" relative="1" as="geometry">
@@ -940,7 +940,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ag9Fs28pgx7X8oVgpacB-7" value="Email suspension de compte" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
-          <mxGeometry x="2979.25" y="3100" width="311.5" height="120" as="geometry" />
+          <mxGeometry x="2940" y="3120" width="311.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Ag9Fs28pgx7X8oVgpacB-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;endArrow=block;endFill=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Ag9Fs28pgx7X8oVgpacB-7" target="Ag9Fs28pgx7X8oVgpacB-3" edge="1">
           <mxGeometry relative="1" as="geometry">
