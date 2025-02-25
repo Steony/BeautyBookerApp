@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="6ZYqpIRizQXzz5DhEBzc">
-    <mxGraphModel dx="11022" dy="10377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6693" dy="5470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -790,7 +790,7 @@
         <mxCell id="19OYA8eGWC_Ipobmx0Tn-3" value="Modifier les informations des utilisateurs" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
           <mxGeometry x="-330" y="4420" width="270" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="19OYA8eGWC_Ipobmx0Tn-4" value="Consulter la liste des utilisateurs (clients et prestataires)" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
+        <mxCell id="19OYA8eGWC_Ipobmx0Tn-4" value="Consulter la liste de tous les acteurs de l&#39;application" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
           <mxGeometry x="-450" y="5000" width="317.75" height="160" as="geometry" />
         </mxCell>
         <mxCell id="19OYA8eGWC_Ipobmx0Tn-5" value="Créer un compte utilisateur&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
@@ -1018,7 +1018,7 @@
           <mxGeometry x="-160" y="4080" width="230" height="132" as="geometry" />
         </mxCell>
         <mxCell id="Ag9Fs28pgx7X8oVgpacB-31" value="Email création de compte" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
-          <mxGeometry x="144" y="4000" width="346" height="112" as="geometry" />
+          <mxGeometry x="170" y="3934" width="346" height="112" as="geometry" />
         </mxCell>
         <mxCell id="Ag9Fs28pgx7X8oVgpacB-32" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;" parent="1" source="19OYA8eGWC_Ipobmx0Tn-3" target="Ag9Fs28pgx7X8oVgpacB-30" edge="1">
           <mxGeometry x="-0.1858" y="3" width="160" relative="1" as="geometry">
