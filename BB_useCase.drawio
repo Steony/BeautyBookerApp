@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="6ZYqpIRizQXzz5DhEBzc">
-    <mxGraphModel dx="8598" dy="5247" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="9507" dy="5682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -789,7 +789,7 @@
           <mxGeometry x="2887.5" y="6760" width="285" height="150" as="geometry" />
         </mxCell>
         <mxCell id="19OYA8eGWC_Ipobmx0Tn-7" value="Donner un avis et une note après une prestation" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="uC5Lagubd8C8kVA8-hUs-71" vertex="1">
-          <mxGeometry x="2403" y="3755" width="289" height="160" as="geometry" />
+          <mxGeometry x="2650" y="3689" width="289" height="160" as="geometry" />
         </mxCell>
         <mxCell id="19OYA8eGWC_Ipobmx0Tn-11" value="Vérifier et approuver les avis et les notes" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=26;container=0;" parent="uC5Lagubd8C8kVA8-hUs-71" vertex="1">
           <mxGeometry x="2540" y="4290" width="360" height="196.5" as="geometry" />
@@ -1021,8 +1021,8 @@
         <mxCell id="Ag9Fs28pgx7X8oVgpacB-34" value="Ajouter/modifier les FAQ, conditions générales et politiques du site." style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="uC5Lagubd8C8kVA8-hUs-71" vertex="1">
           <mxGeometry x="1874" y="8100" width="358" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Ag9Fs28pgx7X8oVgpacB-35" value="Gérer les modérateurs (leur attribuer des tâches ou restreindre leurs permissions)." style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="uC5Lagubd8C8kVA8-hUs-71" vertex="1">
-          <mxGeometry x="1330" y="8090" width="320" height="170" as="geometry" />
+        <mxCell id="Ag9Fs28pgx7X8oVgpacB-35" value="Gérer le modérateur (attribution des tâches ou restreindre leurs permissions)." style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="uC5Lagubd8C8kVA8-hUs-71" vertex="1">
+          <mxGeometry x="1300" y="8070" width="350" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Ag9Fs28pgx7X8oVgpacB-36" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;" parent="uC5Lagubd8C8kVA8-hUs-71" source="Ag9Fs28pgx7X8oVgpacB-34" target="19OYA8eGWC_Ipobmx0Tn-1" edge="1">
           <mxGeometry x="-0.0036" width="160" relative="1" as="geometry">
@@ -1070,9 +1070,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ag9Fs28pgx7X8oVgpacB-65" value="Signaler un client" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="uC5Lagubd8C8kVA8-hUs-71" vertex="1">
-          <mxGeometry x="1460" y="6320" width="355.88" height="90" as="geometry" />
+          <mxGeometry x="1846.75" y="6280" width="355.88" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Ag9Fs28pgx7X8oVgpacB-66" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;entryX=0.744;entryY=0.939;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.36;exitY=-0.052;exitDx=0;exitDy=0;exitPerimeter=0;" parent="uC5Lagubd8C8kVA8-hUs-71" source="Ag9Fs28pgx7X8oVgpacB-65" target="Heh1qQOqi5pZwSqlsJJe-7" edge="1">
+        <mxCell id="Ag9Fs28pgx7X8oVgpacB-66" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;entryX=0.744;entryY=0.939;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="uC5Lagubd8C8kVA8-hUs-71" source="Ag9Fs28pgx7X8oVgpacB-65" target="Heh1qQOqi5pZwSqlsJJe-7" edge="1">
           <mxGeometry x="-0.0036" width="160" relative="1" as="geometry">
             <mxPoint x="2386" y="5797" as="sourcePoint" />
             <mxPoint x="2213" y="5610" as="targetPoint" />
