@@ -185,7 +185,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-66" value="Email Annulation de la réservation" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="uC5Lagubd8C8kVA8-hUs-71" vertex="1">
-          <mxGeometry x="4190" y="4060" width="280" height="120" as="geometry" />
+          <mxGeometry x="4007" y="4060" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-67" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;endArrow=block;endFill=0;" parent="uC5Lagubd8C8kVA8-hUs-71" source="JcrogjCkA5fSQEfnVnb9-66" target="JcrogjCkA5fSQEfnVnb9-64" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1052,9 +1052,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ag9Fs28pgx7X8oVgpacB-44" value="Email Modification de la réservation" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="uC5Lagubd8C8kVA8-hUs-71" vertex="1">
-          <mxGeometry x="4060" y="4206.5" width="290" height="117" as="geometry" />
+          <mxGeometry x="3717" y="4206.5" width="290" height="117" as="geometry" />
         </mxCell>
-        <mxCell id="Ag9Fs28pgx7X8oVgpacB-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;endArrow=block;endFill=0;entryX=0.314;entryY=0.964;entryDx=0;entryDy=0;entryPerimeter=0;" parent="uC5Lagubd8C8kVA8-hUs-71" source="Ag9Fs28pgx7X8oVgpacB-44" target="JcrogjCkA5fSQEfnVnb9-64" edge="1">
+        <mxCell id="Ag9Fs28pgx7X8oVgpacB-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;endArrow=block;endFill=0;entryX=0.581;entryY=0.971;entryDx=0;entryDy=0;entryPerimeter=0;" parent="uC5Lagubd8C8kVA8-hUs-71" source="Ag9Fs28pgx7X8oVgpacB-44" target="JcrogjCkA5fSQEfnVnb9-64" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2900" y="4080" as="sourcePoint" />
             <mxPoint x="2754" y="4071" as="targetPoint" />
