@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="6ZYqpIRizQXzz5DhEBzc">
-    <mxGraphModel dx="9742" dy="5827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="11022" dy="10377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
           <mxGeometry x="4560" y="1563.5" width="180" height="310" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-6" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="-634" y="-2720" width="4604" height="8640" as="geometry" />
+          <mxGeometry x="-620" y="-2750" width="4604" height="8640" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-9" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=0.149;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;" parent="1" source="JcrogjCkA5fSQEfnVnb9-1" target="JcrogjCkA5fSQEfnVnb9-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -784,8 +784,8 @@
         <mxCell id="19OYA8eGWC_Ipobmx0Tn-1" value="Accéder aux paramètres Admin" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontSize=26;container=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="4620" width="360" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="19OYA8eGWC_Ipobmx0Tn-2" value="Gérer les remboursements en cas d’annulation ou de problème." style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
-          <mxGeometry x="3086.5" y="5220" width="310" height="180" as="geometry" />
+        <mxCell id="19OYA8eGWC_Ipobmx0Tn-2" value="Gérer les remboursements&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
+          <mxGeometry x="2970" y="5230" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="19OYA8eGWC_Ipobmx0Tn-3" value="Modifier les informations des utilisateurs" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
           <mxGeometry x="-330" y="4420" width="270" height="130" as="geometry" />
@@ -826,7 +826,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="19OYA8eGWC_Ipobmx0Tn-22" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;exitX=0.412;exitY=0.043;exitDx=0;exitDy=0;entryX=0.407;entryY=0.972;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="19OYA8eGWC_Ipobmx0Tn-2" target="uC5Lagubd8C8kVA8-hUs-42" edge="1">
+        <mxCell id="19OYA8eGWC_Ipobmx0Tn-22" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="19OYA8eGWC_Ipobmx0Tn-2" target="uC5Lagubd8C8kVA8-hUs-42" edge="1">
           <mxGeometry x="-0.0036" width="160" relative="1" as="geometry">
             <mxPoint x="100" y="2850" as="sourcePoint" />
             <mxPoint x="2260" y="4940" as="targetPoint" />
@@ -1252,6 +1252,16 @@
         <mxCell id="uC5Lagubd8C8kVA8-hUs-45" value="secondary" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=26;container=0;" vertex="1" connectable="0" parent="uC5Lagubd8C8kVA8-hUs-44">
           <mxGeometry x="-0.2839" y="10" relative="1" as="geometry">
             <mxPoint x="2" y="29" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uC5Lagubd8C8kVA8-hUs-65" value="Gérer les paiements sécurisées" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
+          <mxGeometry x="3400" y="5250" width="306" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uC5Lagubd8C8kVA8-hUs-66" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;entryX=0.699;entryY=0.96;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uC5Lagubd8C8kVA8-hUs-65" target="uC5Lagubd8C8kVA8-hUs-42">
+          <mxGeometry x="-0.0036" width="160" relative="1" as="geometry">
+            <mxPoint x="3170" y="5275" as="sourcePoint" />
+            <mxPoint x="3448" y="5110" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
