@@ -689,9 +689,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Heh1qQOqi5pZwSqlsJJe-1" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Accepter ou refuser des demandes de réservation&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;.&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
-          <mxGeometry x="-420.5" y="2580" width="340.5" height="180" as="geometry" />
+          <mxGeometry x="-441.37" y="2650" width="340.5" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Heh1qQOqi5pZwSqlsJJe-2" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;entryX=0.273;entryY=0.943;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Heh1qQOqi5pZwSqlsJJe-1" target="O4oYYWf4ppTde2RlQpEJ-32" edge="1">
+        <mxCell id="Heh1qQOqi5pZwSqlsJJe-2" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Heh1qQOqi5pZwSqlsJJe-1" target="O4oYYWf4ppTde2RlQpEJ-32" edge="1">
           <mxGeometry x="-0.0036" width="160" relative="1" as="geometry">
             <mxPoint x="251" y="1775" as="sourcePoint" />
             <mxPoint x="130" y="1815" as="targetPoint" />
@@ -722,9 +722,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Heh1qQOqi5pZwSqlsJJe-9" value="Se déconnecter" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;container=0;" parent="1" vertex="1">
-          <mxGeometry x="-379" y="2338" width="212.5" height="110" as="geometry" />
+          <mxGeometry x="-261.25" y="2410" width="212.5" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Heh1qQOqi5pZwSqlsJJe-10" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;exitX=0.971;exitY=0.736;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Heh1qQOqi5pZwSqlsJJe-9" target="O4oYYWf4ppTde2RlQpEJ-32" edge="1">
+        <mxCell id="Heh1qQOqi5pZwSqlsJJe-10" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;" parent="1" source="Heh1qQOqi5pZwSqlsJJe-9" target="O4oYYWf4ppTde2RlQpEJ-32" edge="1">
           <mxGeometry x="-0.0036" width="160" relative="1" as="geometry">
             <mxPoint x="64" y="1740" as="sourcePoint" />
             <mxPoint x="-94" y="1781" as="targetPoint" />
@@ -737,7 +737,7 @@
         <mxCell id="Heh1qQOqi5pZwSqlsJJe-12" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Créer des partenariats&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;avec d’autres prestataires ou entreprises (ex. : coiffeurs, photographes).&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
           <mxGeometry x="529.9999999999999" y="2565" width="401.25" height="245" as="geometry" />
         </mxCell>
-        <mxCell id="Heh1qQOqi5pZwSqlsJJe-14" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;entryX=0.375;entryY=0.05;entryDx=0;entryDy=0;exitX=0.699;exitY=0.997;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="Heh1qQOqi5pZwSqlsJJe-11" target="O4oYYWf4ppTde2RlQpEJ-32" edge="1">
+        <mxCell id="Heh1qQOqi5pZwSqlsJJe-14" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Heh1qQOqi5pZwSqlsJJe-11" target="O4oYYWf4ppTde2RlQpEJ-32" edge="1">
           <mxGeometry x="-0.0036" width="160" relative="1" as="geometry">
             <mxPoint x="311" y="1625" as="sourcePoint" />
             <mxPoint x="185" y="1690" as="targetPoint" />
