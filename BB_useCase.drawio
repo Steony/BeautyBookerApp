@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="6ZYqpIRizQXzz5DhEBzc">
-    <mxGraphModel dx="6997" dy="5252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6988" dy="5501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1794,16 +1794,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p9FDVOX_jxRS19b3Ooo2-102" value="&lt;font&gt;Partager une prestation ou un profil de prestataire&amp;nbsp;via WhatsApp, e-mail ou réseaux sociaux&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="2500" y="9182" width="470" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="p9FDVOX_jxRS19b3Ooo2-103" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="p9FDVOX_jxRS19b3Ooo2-102" target="p9FDVOX_jxRS19b3Ooo2-22">
-          <mxGeometry x="-0.0885" y="4" width="160" relative="1" as="geometry">
-            <mxPoint x="1054.25" y="10830" as="sourcePoint" />
-            <mxPoint x="949.25" y="10898" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-104" value="&lt;font&gt;Consulter les articles ou tutoriels&amp;nbsp;disponibles&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="11900" width="320" height="129" as="geometry" />
         </mxCell>
@@ -2406,7 +2396,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-231" value="Par nom du prestataire" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1393.75" y="9760" width="246.25" height="110" as="geometry" />
+          <mxGeometry x="1160" y="9700" width="246.25" height="110" as="geometry" />
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-232" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;exitX=0.413;exitY=0.973;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="p9FDVOX_jxRS19b3Ooo2-235" target="p9FDVOX_jxRS19b3Ooo2-231">
           <mxGeometry x="0.0098" width="160" relative="1" as="geometry">
@@ -2435,7 +2425,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-237" value="Entrer un mot clé" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1387.06" y="9340" width="246.25" height="110" as="geometry" />
+          <mxGeometry x="1121.81" y="9360" width="246.25" height="110" as="geometry" />
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-238" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="p9FDVOX_jxRS19b3Ooo2-237" target="p9FDVOX_jxRS19b3Ooo2-19">
           <mxGeometry x="0.0098" width="160" relative="1" as="geometry">
@@ -2454,7 +2444,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-240" value="Par ville" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1393.75" y="9530" width="246.25" height="110" as="geometry" />
+          <mxGeometry x="1147.5" y="9510" width="246.25" height="110" as="geometry" />
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-241" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="p9FDVOX_jxRS19b3Ooo2-240" target="p9FDVOX_jxRS19b3Ooo2-19">
           <mxGeometry x="0.0098" width="160" relative="1" as="geometry">
@@ -2569,16 +2559,6 @@
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-264" value="Envoyer Email" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;fontSize=26;container=0;" vertex="1" parent="1">
           <mxGeometry x="2137" y="12820" width="210" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="p9FDVOX_jxRS19b3Ooo2-265" value="&lt;span style=&quot;&quot; data-end=&quot;848&quot; data-start=&quot;822&quot;&gt;Voir les avis et notes&lt;/span&gt; des prestataires" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="2216.25" y="9900" width="360" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="p9FDVOX_jxRS19b3Ooo2-266" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;entryX=0.436;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="p9FDVOX_jxRS19b3Ooo2-265" target="p9FDVOX_jxRS19b3Ooo2-22">
-          <mxGeometry x="-0.0885" y="4" width="160" relative="1" as="geometry">
-            <mxPoint x="2393" y="9752" as="sourcePoint" />
-            <mxPoint x="2130" y="9700" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-267" value="&lt;span style=&quot;&quot; data-end=&quot;237&quot; data-start=&quot;213&quot;&gt;Annulation avant 24h&lt;/span&gt; → &lt;span style=&quot;&quot; data-end=&quot;266&quot; data-start=&quot;240&quot;&gt;Remboursement intégral&lt;/span&gt;." style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
           <mxGeometry x="3026.25" y="12740" width="313.75" height="130" as="geometry" />
