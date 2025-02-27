@@ -1773,16 +1773,6 @@
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-105" value="Se connecter" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontSize=26;container=0;" parent="1" vertex="1">
           <mxGeometry x="189" y="11490" width="211" height="111.5" as="geometry" />
         </mxCell>
-        <mxCell id="p9FDVOX_jxRS19b3Ooo2-106" value="Modifiier un RDV" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
-          <mxGeometry x="3950" y="9052" width="210" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="p9FDVOX_jxRS19b3Ooo2-107" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.745;entryY=0.088;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="p9FDVOX_jxRS19b3Ooo2-106" target="p9FDVOX_jxRS19b3Ooo2-86" edge="1">
-          <mxGeometry x="-0.0931" y="4" width="160" relative="1" as="geometry">
-            <mxPoint x="1592" y="10285" as="sourcePoint" />
-            <mxPoint x="2660" y="10100" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-108" value="Valider la réservation" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
           <mxGeometry x="1969.5" y="10998.75" width="270.5" height="140" as="geometry" />
         </mxCell>
