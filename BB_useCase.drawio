@@ -1566,7 +1566,7 @@
           <mxGeometry x="2310" y="11930" width="248" height="89" as="geometry" />
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-63" value="Email suppression compte" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
-          <mxGeometry x="2300" y="12090" width="282" height="95" as="geometry" />
+          <mxGeometry x="2270" y="12060" width="282" height="95" as="geometry" />
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-64" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;endArrow=block;endFill=0;entryX=0.935;entryY=0.288;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="p9FDVOX_jxRS19b3Ooo2-61" target="p9FDVOX_jxRS19b3Ooo2-57" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2136,7 +2136,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-177" value="Email confirmation de réservation" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
-          <mxGeometry x="2589.75" y="11330" width="310.5" height="97.5" as="geometry" />
+          <mxGeometry x="2589.75" y="11289" width="310.5" height="97.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
