@@ -1838,7 +1838,7 @@
             <mxPoint x="272.5" y="14300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p9FDVOX_jxRS19b3Ooo2-162" value="Accéder aux paramètres Admin" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontSize=26;container=0;" parent="1" vertex="1">
+        <mxCell id="p9FDVOX_jxRS19b3Ooo2-162" value="Accéder aux paramètres Admin" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;fontSize=26;container=0;" parent="1" vertex="1">
           <mxGeometry x="110" y="14130" width="360" height="200" as="geometry" />
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-164" value="Modifier les informations des utilisateurs" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
@@ -1905,7 +1905,7 @@
             <mxPoint x="1086" y="14134" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p9FDVOX_jxRS19b3Ooo2-197" value="Gérer les comptes des utilisateurs&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
+        <mxCell id="p9FDVOX_jxRS19b3Ooo2-197" value="Gérer les comptes des utilisateurs&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="696.25" y="14210" width="360" height="188" as="geometry" />
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-198" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;exitX=0.005;exitY=0.356;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="p9FDVOX_jxRS19b3Ooo2-197" target="p9FDVOX_jxRS19b3Ooo2-162" edge="1">
