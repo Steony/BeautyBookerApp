@@ -1820,7 +1820,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-150" value="Se déconnecter" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;container=0;" parent="1" vertex="1">
-          <mxGeometry x="307" y="12640" width="212.5" height="110" as="geometry" />
+          <mxGeometry x="-32.5" y="12480" width="212.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-151" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;" parent="1" source="p9FDVOX_jxRS19b3Ooo2-150" target="p9FDVOX_jxRS19b3Ooo2-122" edge="1">
           <mxGeometry x="-0.0036" width="160" relative="1" as="geometry">
