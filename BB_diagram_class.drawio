@@ -54,7 +54,7 @@
         <mxCell id="LgcdPhRPJX6D3hv3DdyL-34" value="+signOut()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--0">
           <mxGeometry y="338" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="YF6P2X9bnGCXdfsYFpCG-31" value="+deleteAccount()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
+        <mxCell id="YF6P2X9bnGCXdfsYFpCG-31" value="+disableAccount()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
           <mxGeometry y="364" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--6" value="Reservation" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -331,12 +331,12 @@
           <mxGeometry x="930" y="-730" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LgcdPhRPJX6D3hv3DdyL-2" value="Admin" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-100" y="-1090" width="230" height="164" as="geometry">
+          <mxGeometry x="-100" y="-1090" width="180" height="164" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LgcdPhRPJX6D3hv3DdyL-3" value="#user : List&lt;User&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LgcdPhRPJX6D3hv3DdyL-2">
-          <mxGeometry y="26" width="230" height="34" as="geometry" />
+          <mxGeometry y="26" width="180" height="34" as="geometry" />
         </mxCell>
         <mxCell id="LgcdPhRPJX6D3hv3DdyL-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.999;entryY=0.755;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="LgcdPhRPJX6D3hv3DdyL-2" target="LgcdPhRPJX6D3hv3DdyL-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -344,17 +344,17 @@
             <mxPoint x="160" y="52" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LgcdPhRPJX6D3hv3DdyL-5" value="+activerCompte(utilisateur)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LgcdPhRPJX6D3hv3DdyL-2">
-          <mxGeometry y="60" width="230" height="26" as="geometry" />
+        <mxCell id="LgcdPhRPJX6D3hv3DdyL-5" value="+activateAccount(user)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LgcdPhRPJX6D3hv3DdyL-2">
+          <mxGeometry y="60" width="180" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="LgcdPhRPJX6D3hv3DdyL-6" value="+desactiverCompte(utilisateur)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LgcdPhRPJX6D3hv3DdyL-2">
-          <mxGeometry y="86" width="230" height="26" as="geometry" />
+        <mxCell id="LgcdPhRPJX6D3hv3DdyL-6" value="+disable Account(user)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LgcdPhRPJX6D3hv3DdyL-2">
+          <mxGeometry y="86" width="180" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="LgcdPhRPJX6D3hv3DdyL-7" value="+supprimerCompte(utilisateur)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LgcdPhRPJX6D3hv3DdyL-2">
-          <mxGeometry y="112" width="230" height="26" as="geometry" />
+        <mxCell id="LgcdPhRPJX6D3hv3DdyL-7" value="+deleteAccount(user)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LgcdPhRPJX6D3hv3DdyL-2">
+          <mxGeometry y="112" width="180" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="LgcdPhRPJX6D3hv3DdyL-32" value="+consulterUtilisateurs() : List&lt;Utilisateur&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LgcdPhRPJX6D3hv3DdyL-2">
-          <mxGeometry y="138" width="230" height="26" as="geometry" />
+        <mxCell id="LgcdPhRPJX6D3hv3DdyL-32" value="+consult Users() : List&lt;User&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LgcdPhRPJX6D3hv3DdyL-2">
+          <mxGeometry y="138" width="180" height="26" as="geometry" />
         </mxCell>
         <mxCell id="LgcdPhRPJX6D3hv3DdyL-10" value="Avis" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-200" y="-640" width="180" height="159" as="geometry">
