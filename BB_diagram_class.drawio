@@ -156,7 +156,7 @@
         <mxCell id="YF6P2X9bnGCXdfsYFpCG-46" value="+bookService(service: Service, date : Date)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Z0JYn2a-cfdWObl-iRzG-19" vertex="1">
           <mxGeometry y="60" width="310" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="YF6P2X9bnGCXdfsYFpCG-51" value="+cancelBooking(booking : Booking)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Z0JYn2a-cfdWObl-iRzG-19" vertex="1">
+        <mxCell id="YF6P2X9bnGCXdfsYFpCG-51" value="+removeBooking(booking : Booking)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Z0JYn2a-cfdWObl-iRzG-19" vertex="1">
           <mxGeometry y="86" width="310" height="26" as="geometry" />
         </mxCell>
         <mxCell id="qEeKyHEhCAI6KiBk3C8H-1" value="Provider" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
