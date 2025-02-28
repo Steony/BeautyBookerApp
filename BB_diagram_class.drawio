@@ -94,7 +94,7 @@
         <mxCell id="09x6wX240GTnIhkP-kPZ-4" value="#id: int" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="09x6wX240GTnIhkP-kPZ-3" vertex="1">
           <mxGeometry y="26" width="180" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="09x6wX240GTnIhkP-kPZ-76" value="#nom: String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="09x6wX240GTnIhkP-kPZ-3" vertex="1">
+        <mxCell id="09x6wX240GTnIhkP-kPZ-76" value="#title: String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="09x6wX240GTnIhkP-kPZ-3" vertex="1">
           <mxGeometry y="52" width="180" height="26" as="geometry" />
         </mxCell>
         <mxCell id="09x6wX240GTnIhkP-kPZ-80" value="#description: String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="09x6wX240GTnIhkP-kPZ-3" vertex="1">
@@ -118,7 +118,7 @@
             <mxPoint x="180" y="233.52" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LgcdPhRPJX6D3hv3DdyL-0" value="#prestataireId : int" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="09x6wX240GTnIhkP-kPZ-3">
+        <mxCell id="LgcdPhRPJX6D3hv3DdyL-0" value="#providerId : int" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="09x6wX240GTnIhkP-kPZ-3">
           <mxGeometry y="208" width="180" height="26" as="geometry" />
         </mxCell>
         <mxCell id="YF6P2X9bnGCXdfsYFpCG-73" value="+addService()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="09x6wX240GTnIhkP-kPZ-3" vertex="1">
