@@ -1787,7 +1787,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-143" value="Recevoir des réservations" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
-          <mxGeometry x="280.5" y="13170" width="340.5" height="180" as="geometry" />
+          <mxGeometry x="155.93" y="13110" width="340.5" height="180" as="geometry" />
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-144" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;entryX=0.603;entryY=0.948;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="p9FDVOX_jxRS19b3Ooo2-143" target="p9FDVOX_jxRS19b3Ooo2-122" edge="1">
           <mxGeometry x="-0.0036" width="160" relative="1" as="geometry">
@@ -1825,7 +1825,7 @@
           <mxGeometry x="110" y="14130" width="360" height="200" as="geometry" />
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-164" value="Modifier les informations des utilisateurs" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
-          <mxGeometry x="940" y="13942" width="270" height="130" as="geometry" />
+          <mxGeometry x="996" y="13990" width="270" height="130" as="geometry" />
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-166" value="Créer un compte utilisateur&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
           <mxGeometry x="1535" y="14160" width="285" height="150" as="geometry" />
@@ -2148,6 +2148,25 @@
           <mxGeometry x="-0.0036" width="160" relative="1" as="geometry">
             <mxPoint x="1683" y="12610" as="sourcePoint" />
             <mxPoint x="1531" y="12871" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3LW0HmsVJS33gFks11Bm-9" value="Notification d&#39;un client qui a réservé" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;fontSize=26;container=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="13360" width="230" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="3LW0HmsVJS33gFks11Bm-10" value="Email&amp;nbsp; modification de compte" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="13530" width="330" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="3LW0HmsVJS33gFks11Bm-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;endArrow=block;endFill=0;" edge="1" parent="1" source="3LW0HmsVJS33gFks11Bm-10" target="3LW0HmsVJS33gFks11Bm-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="716" y="13432" as="sourcePoint" />
+            <mxPoint x="552" y="13456" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3LW0HmsVJS33gFks11Bm-12" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;exitX=0.584;exitY=0.961;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="p9FDVOX_jxRS19b3Ooo2-143" target="3LW0HmsVJS33gFks11Bm-9">
+          <mxGeometry x="-0.1858" y="3" width="160" relative="1" as="geometry">
+            <mxPoint x="400" y="13360" as="sourcePoint" />
+            <mxPoint x="741" y="13306" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
