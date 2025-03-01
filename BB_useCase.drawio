@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="6ZYqpIRizQXzz5DhEBzc">
-    <mxGraphModel dx="14522" dy="8427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="8149" dy="5147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1791,7 +1791,7 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p9FDVOX_jxRS19b3Ooo2-139" value="&lt;font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Consulter son calendrier&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;des réservations (à venir ).&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="3LW0HmsVJS33gFks11Bm-19" vertex="1">
+        <mxCell id="p9FDVOX_jxRS19b3Ooo2-139" value="&lt;font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Consulter son planning&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;des réservations (à venir ).&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="3LW0HmsVJS33gFks11Bm-19" vertex="1">
           <mxGeometry x="2013" y="4470" width="390" height="170" as="geometry" />
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-140" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;" parent="3LW0HmsVJS33gFks11Bm-19" source="p9FDVOX_jxRS19b3Ooo2-139" target="p9FDVOX_jxRS19b3Ooo2-143" edge="1">
@@ -2163,7 +2163,7 @@
             <mxPoint x="1632" y="4546" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3LW0HmsVJS33gFks11Bm-12" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;exitX=0.584;exitY=0.961;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="3LW0HmsVJS33gFks11Bm-19" source="p9FDVOX_jxRS19b3Ooo2-143" target="3LW0HmsVJS33gFks11Bm-9">
+        <mxCell id="3LW0HmsVJS33gFks11Bm-12" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;exitX=0.215;exitY=0.952;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="3LW0HmsVJS33gFks11Bm-19" source="p9FDVOX_jxRS19b3Ooo2-143" target="3LW0HmsVJS33gFks11Bm-9">
           <mxGeometry x="-0.1858" y="3" width="160" relative="1" as="geometry">
             <mxPoint x="1480" y="4450" as="sourcePoint" />
             <mxPoint x="1821" y="4396" as="targetPoint" />
