@@ -869,7 +869,7 @@
         <mxCell id="SoccBnHSWLBsHFDYlzGv-417" value="" style="shape=lineEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="SoccBnHSWLBsHFDYlzGv-416">
           <mxGeometry width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SoccBnHSWLBsHFDYlzGv-418" value="Lié" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SoccBnHSWLBsHFDYlzGv-416">
+        <mxCell id="SoccBnHSWLBsHFDYlzGv-418" value="constitue" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SoccBnHSWLBsHFDYlzGv-416">
           <mxGeometry x="17.5" width="55" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SoccBnHSWLBsHFDYlzGv-420" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;exitX=0.194;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SoccBnHSWLBsHFDYlzGv-50" target="SoccBnHSWLBsHFDYlzGv-111">
@@ -980,7 +980,7 @@
         <mxCell id="SoccBnHSWLBsHFDYlzGv-446" value="" style="shape=lineEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="SoccBnHSWLBsHFDYlzGv-445">
           <mxGeometry width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SoccBnHSWLBsHFDYlzGv-447" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Lié&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SoccBnHSWLBsHFDYlzGv-445">
+        <mxCell id="SoccBnHSWLBsHFDYlzGv-447" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;est lié&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SoccBnHSWLBsHFDYlzGv-445">
           <mxGeometry x="17.5" width="55" height="20" as="geometry" />
         </mxCell>
       </root>
