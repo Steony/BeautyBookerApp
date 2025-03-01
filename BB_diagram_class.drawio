@@ -74,7 +74,7 @@
         <mxCell id="YF6P2X9bnGCXdfsYFpCG-73" value="+addService(title: String, description: String, duration: int, price: double, categoryId: int, providerId: int) : Service" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" parent="09x6wX240GTnIhkP-kPZ-3" vertex="1">
           <mxGeometry y="234" width="633" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="YF6P2X9bnGCXdfsYFpCG-74" value="+updateService(serviceId: int, title: String, description:&#xa;String, duration: int, price: double) : Boolean" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" parent="09x6wX240GTnIhkP-kPZ-3" vertex="1">
+        <mxCell id="YF6P2X9bnGCXdfsYFpCG-74" value="+updateService(serviceId: int, title: String, description: String, duration: int, price: double) : Boolean" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" parent="09x6wX240GTnIhkP-kPZ-3" vertex="1">
           <mxGeometry y="260" width="633" height="26" as="geometry" />
         </mxCell>
         <mxCell id="YF6P2X9bnGCXdfsYFpCG-75" value="+deleteService(serviceId: int) : Boolean" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" parent="09x6wX240GTnIhkP-kPZ-3" vertex="1">
