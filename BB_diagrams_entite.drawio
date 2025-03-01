@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2431" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3099" dy="2261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -185,7 +185,7 @@
             <mxRectangle width="160" height="53" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SoccBnHSWLBsHFDYlzGv-236" value="Category" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="SoccBnHSWLBsHFDYlzGv-236" value="Category" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="920" y="690" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="SoccBnHSWLBsHFDYlzGv-237" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="SoccBnHSWLBsHFDYlzGv-236">
@@ -230,7 +230,7 @@
         <mxCell id="SoccBnHSWLBsHFDYlzGv-283" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-110" y="585" width="220" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="SoccBnHSWLBsHFDYlzGv-142" value="Booking" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="SoccBnHSWLBsHFDYlzGv-283">
+        <mxCell id="SoccBnHSWLBsHFDYlzGv-142" value="Booking" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="SoccBnHSWLBsHFDYlzGv-283">
           <mxGeometry width="220" height="280" as="geometry" />
         </mxCell>
         <mxCell id="SoccBnHSWLBsHFDYlzGv-143" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="SoccBnHSWLBsHFDYlzGv-142">
@@ -360,7 +360,7 @@
         <mxCell id="SoccBnHSWLBsHFDYlzGv-289" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="620" width="220" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="SoccBnHSWLBsHFDYlzGv-205" value="Service" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="SoccBnHSWLBsHFDYlzGv-289">
+        <mxCell id="SoccBnHSWLBsHFDYlzGv-205" value="Service" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="SoccBnHSWLBsHFDYlzGv-289">
           <mxGeometry width="220" height="240" as="geometry" />
         </mxCell>
         <mxCell id="SoccBnHSWLBsHFDYlzGv-206" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="SoccBnHSWLBsHFDYlzGv-205">
@@ -605,7 +605,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SoccBnHSWLBsHFDYlzGv-111" value="Review" style="shape=table;startSize=20;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="SoccBnHSWLBsHFDYlzGv-394">
+        <mxCell id="SoccBnHSWLBsHFDYlzGv-111" value="Review" style="shape=table;startSize=20;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="SoccBnHSWLBsHFDYlzGv-394">
           <mxGeometry width="220" height="170" as="geometry">
             <mxRectangle width="80" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -707,7 +707,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SoccBnHSWLBsHFDYlzGv-174" value="Schedule" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="SoccBnHSWLBsHFDYlzGv-398">
+        <mxCell id="SoccBnHSWLBsHFDYlzGv-174" value="Schedule" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="SoccBnHSWLBsHFDYlzGv-398">
           <mxGeometry width="220" height="210" as="geometry" />
         </mxCell>
         <mxCell id="SoccBnHSWLBsHFDYlzGv-175" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="SoccBnHSWLBsHFDYlzGv-174">
