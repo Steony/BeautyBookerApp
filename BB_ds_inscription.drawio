@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="2562" dy="3360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1818" dy="2856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1011,7 +1011,7 @@
             <mxPoint x="3969.83" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOG7M7HhGOHI4rEWIUIi-201" value="1: Get vente.html" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BOG7M7HhGOHI4rEWIUIi-200" vertex="1" connectable="0">
+        <mxCell id="BOG7M7HhGOHI4rEWIUIi-201" value="1: Get booking.html" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BOG7M7HhGOHI4rEWIUIi-200" vertex="1" connectable="0">
           <mxGeometry x="-0.1848" y="2" relative="1" as="geometry">
             <mxPoint x="34" y="-8" as="offset" />
           </mxGeometry>
@@ -1025,9 +1025,9 @@
             <mxPoint x="3689.91" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOG7M7HhGOHI4rEWIUIi-204" value="2 :&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BOG7M7HhGOHI4rEWIUIi-203" vertex="1" connectable="0">
+        <mxCell id="BOG7M7HhGOHI4rEWIUIi-204" value="2 : Afficher le formulaire de réservation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BOG7M7HhGOHI4rEWIUIi-203" vertex="1" connectable="0">
           <mxGeometry x="0.1523" y="-3" relative="1" as="geometry">
-            <mxPoint x="19" y="-7" as="offset" />
+            <mxPoint x="21" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BOG7M7HhGOHI4rEWIUIi-205" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=#000000;" parent="1" vertex="1">
