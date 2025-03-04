@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1554" dy="2812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1333" dy="2619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -969,7 +969,7 @@
         </mxCell>
         <mxCell id="BOG7M7HhGOHI4rEWIUIi-193" value="3 : Remplir les détails du rendez-vous" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BOG7M7HhGOHI4rEWIUIi-192" vertex="1" connectable="0">
           <mxGeometry x="0.1997" y="-2" relative="1" as="geometry">
-            <mxPoint x="-18" y="-12" as="offset" />
+            <mxPoint x="-26" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BOG7M7HhGOHI4rEWIUIi-194" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1" target="BOG7M7HhGOHI4rEWIUIi-177">
