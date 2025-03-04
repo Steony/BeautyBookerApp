@@ -890,10 +890,10 @@
           <mxGeometry x="3770" y="50" width="100" height="1480" as="geometry" />
         </mxCell>
         <mxCell id="BOG7M7HhGOHI4rEWIUIi-187" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%221%3A%20Get%20register.html%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22270.33333333333337%22%20y%3D%22180%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%221%3A%20Get%20register.html%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22270.33333333333337%22%20y%3D%22180%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="BOG7M7HhGOHI4rEWIUIi-177" vertex="1">
-          <mxGeometry x="45" y="270" width="10" height="690" as="geometry" />
+          <mxGeometry x="45" y="300" width="10" height="660" as="geometry" />
         </mxCell>
         <mxCell id="BOG7M7HhGOHI4rEWIUIi-202" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%221%3A%20Get%20register.html%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22270.33333333333337%22%20y%3D%22180%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%221%3A%20Get%20register.html%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22270.33333333333337%22%20y%3D%22180%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="BOG7M7HhGOHI4rEWIUIi-177" vertex="1">
-          <mxGeometry x="45" y="90" width="10" height="70" as="geometry" />
+          <mxGeometry x="45" y="90" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BOG7M7HhGOHI4rEWIUIi-188" value="Controller" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=40;" parent="1" vertex="1">
           <mxGeometry x="3920" y="50" width="100" height="1480" as="geometry" />
@@ -909,8 +909,8 @@
         </mxCell>
         <mxCell id="BOG7M7HhGOHI4rEWIUIi-192" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3610.0276190476184" y="260" as="sourcePoint" />
-            <mxPoint x="3820" y="260" as="targetPoint" />
+            <mxPoint x="3610.0276190476184" y="290" as="sourcePoint" />
+            <mxPoint x="3820" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BOG7M7HhGOHI4rEWIUIi-193" value="3 : Remplir les détails du rendez-vous" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BOG7M7HhGOHI4rEWIUIi-192" vertex="1" connectable="0">
@@ -920,8 +920,8 @@
         </mxCell>
         <mxCell id="BOG7M7HhGOHI4rEWIUIi-194" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3610.313084112149" y="319.17" as="sourcePoint" />
-            <mxPoint x="3815" y="319.17" as="targetPoint" />
+            <mxPoint x="3610.313084112149" y="350" as="sourcePoint" />
+            <mxPoint x="3815" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BOG7M7HhGOHI4rEWIUIi-195" value="4 : Soumettre le formulaire" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BOG7M7HhGOHI4rEWIUIi-194" vertex="1" connectable="0">
@@ -940,10 +940,10 @@
             <mxPoint x="34" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOG7M7HhGOHI4rEWIUIi-203" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1" source="BOG7M7HhGOHI4rEWIUIi-202">
+        <mxCell id="BOG7M7HhGOHI4rEWIUIi-203" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3780" y="200" as="sourcePoint" />
-            <mxPoint x="3609.7857142857138" y="200.00000000000045" as="targetPoint" />
+            <mxPoint x="3815" y="220.00000000000045" as="sourcePoint" />
+            <mxPoint x="3609.7857142857138" y="220.00000000000045" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BOG7M7HhGOHI4rEWIUIi-204" value="2 : Afficher le formulaire de réservation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BOG7M7HhGOHI4rEWIUIi-203" vertex="1" connectable="0">
