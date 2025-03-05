@@ -289,7 +289,7 @@
         <mxCell id="FJ9PU2pGZg8mrga6Q1DG-24" value="+processRefund(): Boolean" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" parent="LgcdPhRPJX6D3hv3DdyL-2" vertex="1">
           <mxGeometry y="365.41731707317075" width="250" height="28.54" as="geometry" />
         </mxCell>
-        <mxCell id="FJ9PU2pGZg8mrga6Q1DG-29" value="+getUserPayments(): List&lt;Payment&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" parent="LgcdPhRPJX6D3hv3DdyL-2" vertex="1">
+        <mxCell id="FJ9PU2pGZg8mrga6Q1DG-29" value="+getPaymentsByCustomer(): List&lt;Payment&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" parent="LgcdPhRPJX6D3hv3DdyL-2" vertex="1">
           <mxGeometry y="393.95731707317077" width="250" height="37.31707317073171" as="geometry" />
         </mxCell>
         <mxCell id="LgcdPhRPJX6D3hv3DdyL-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.991;entryY=0.792;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.002;exitY=0.801;exitDx=0;exitDy=0;exitPerimeter=0;" parent="LgcdPhRPJX6D3hv3DdyL-2" source="FJ9PU2pGZg8mrga6Q1DG-31" target="FJ9PU2pGZg8mrga6Q1DG-31" edge="1">
