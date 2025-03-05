@@ -1907,7 +1907,7 @@
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-199" value="Supprimer un compte utilisateur&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
           <mxGeometry x="1271.5" y="12790" width="345.5" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="p9FDVOX_jxRS19b3Ooo2-200" value="Suspendre un compte utilisateur&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
+        <mxCell id="p9FDVOX_jxRS19b3Ooo2-200" value="Désactiver/Réactiver un compte utilisateur&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
           <mxGeometry x="938" y="13290" width="302.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-201" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;exitX=0.039;exitY=0.307;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p9FDVOX_jxRS19b3Ooo2-199" target="p9FDVOX_jxRS19b3Ooo2-197" edge="1">
