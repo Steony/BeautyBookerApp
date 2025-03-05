@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="6ZYqpIRizQXzz5DhEBzc">
-    <mxGraphModel dx="9274" dy="5543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6537" dy="4670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1472,7 +1472,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-33" value="&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;&quot;&gt;Consulter ses réservations&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
-          <mxGeometry x="572.5" y="11350" width="300" height="80" as="geometry" />
+          <mxGeometry x="715.25" y="11300" width="300" height="80" as="geometry" />
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-34" value="Envoyer Email" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;fontSize=26;container=0;" parent="1" vertex="1">
           <mxGeometry x="562" y="10110" width="270" height="120" as="geometry" />
@@ -1497,7 +1497,7 @@
           <mxGeometry x="-8.5" y="10730" width="207" height="124.5" as="geometry" />
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-39" value="Réserver une prestation" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;fontSize=26;container=0;" parent="1" vertex="1">
-          <mxGeometry x="995.6199999999999" y="10740" width="272.5" height="100" as="geometry" />
+          <mxGeometry x="1030" y="10680" width="272.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-48" value="Afficher profil" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontSize=26;container=0;" parent="1" vertex="1">
           <mxGeometry x="428.5000000000002" y="11022.5" width="292" height="145" as="geometry" />
@@ -1509,10 +1509,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-50" value="Modifier les infos du profil&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
-          <mxGeometry x="910" y="11090" width="266.75" height="90" as="geometry" />
+          <mxGeometry x="1003.49" y="11030" width="266.75" height="90" as="geometry" />
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-51" value="Modifier password" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
-          <mxGeometry x="843" y="10930.75" width="213" height="113.5" as="geometry" />
+          <mxGeometry x="918.5" y="10876.5" width="213" height="113.5" as="geometry" />
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-52" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;" parent="1" source="p9FDVOX_jxRS19b3Ooo2-51" target="p9FDVOX_jxRS19b3Ooo2-48" edge="1">
           <mxGeometry x="-0.0136" y="4" width="160" relative="1" as="geometry">
@@ -1535,7 +1535,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-55" value="Supprimer&amp;nbsp; compte" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
-          <mxGeometry x="892.25" y="11227.5" width="194" height="90" as="geometry" />
+          <mxGeometry x="1020.63" y="11167.5" width="194" height="90" as="geometry" />
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-56" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;entryX=0.813;entryY=0.89;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="p9FDVOX_jxRS19b3Ooo2-55" target="p9FDVOX_jxRS19b3Ooo2-48" edge="1">
           <mxGeometry x="-0.1482" y="1" width="160" relative="1" as="geometry">
@@ -1566,13 +1566,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-61" value="Email MAJ password" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
-          <mxGeometry x="1617" y="10900" width="210" height="110" as="geometry" />
+          <mxGeometry x="1840" y="10800" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-62" value="Email MAJ profil" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
-          <mxGeometry x="1617" y="11070.5" width="248" height="89" as="geometry" />
+          <mxGeometry x="1794.75" y="10970" width="248" height="89" as="geometry" />
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-63" value="Email suppression compte" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
-          <mxGeometry x="1530.5" y="11227.5" width="282" height="95" as="geometry" />
+          <mxGeometry x="1775" y="11120" width="282" height="95" as="geometry" />
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-64" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;endArrow=block;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="p9FDVOX_jxRS19b3Ooo2-61" target="8Co0hYgaPJTQhD8eIHv_-3" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1709,7 +1709,7 @@
           <mxGeometry x="10.5" y="11030" width="254" height="130" as="geometry" />
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-108" value="Valider la réservation" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
-          <mxGeometry x="1504.5" y="10560" width="270.5" height="140" as="geometry" />
+          <mxGeometry x="1556.5" y="10550" width="270.5" height="140" as="geometry" />
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-109" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;" parent="1" source="Ig0dydBE7OxtW1q5xfZk-3" target="p9FDVOX_jxRS19b3Ooo2-175" edge="1">
           <mxGeometry x="-0.0506" y="1" width="160" relative="1" as="geometry">
@@ -2192,19 +2192,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8Co0hYgaPJTQhD8eIHv_-1" value="&amp;nbsp;Annuler réservation" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
-          <mxGeometry x="1039.87" y="11390" width="194" height="90" as="geometry" />
+          <mxGeometry x="1221.75" y="11320" width="194" height="90" as="geometry" />
         </mxCell>
         <mxCell id="8Co0hYgaPJTQhD8eIHv_-2" value="Ecrire un avis et une note&amp;nbsp; après consommation de la prestation" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
-          <mxGeometry x="80" y="11310" width="350" height="170" as="geometry" />
+          <mxGeometry x="100" y="11270" width="350" height="170" as="geometry" />
         </mxCell>
         <mxCell id="8Co0hYgaPJTQhD8eIHv_-3" value="Envoyer Email" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;fontSize=26;container=0;" parent="1" vertex="1">
-          <mxGeometry x="1282.5" y="10952.5" width="145" height="70" as="geometry" />
+          <mxGeometry x="1427.5" y="10854.5" width="145" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8Co0hYgaPJTQhD8eIHv_-5" value="Envoyer Email" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;fontSize=26;container=0;" parent="1" vertex="1">
-          <mxGeometry x="1370" y="11080" width="145" height="70" as="geometry" />
+          <mxGeometry x="1488.75" y="11010" width="145" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8Co0hYgaPJTQhD8eIHv_-6" value="Envoyer Email" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;fontSize=26;container=0;" parent="1" vertex="1">
-          <mxGeometry x="1271.5" y="11240" width="145" height="70" as="geometry" />
+          <mxGeometry x="1380" y="11177.5" width="145" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8Co0hYgaPJTQhD8eIHv_-7" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;entryX=0.08;entryY=0.738;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8Co0hYgaPJTQhD8eIHv_-2" target="p9FDVOX_jxRS19b3Ooo2-33" edge="1">
           <mxGeometry x="-0.1494" y="1" width="160" relative="1" as="geometry">
@@ -2228,10 +2228,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8Co0hYgaPJTQhD8eIHv_-10" value="Envoyer Email" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;fontSize=26;container=0;" parent="1" vertex="1">
-          <mxGeometry x="1370.88" y="11430" width="145" height="70" as="geometry" />
+          <mxGeometry x="1541" y="11330" width="145" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8Co0hYgaPJTQhD8eIHv_-11" value="Email confirmation d&#39;annulation" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
-          <mxGeometry x="1601.5" y="11430" width="248" height="89" as="geometry" />
+          <mxGeometry x="1849.5" y="11280" width="248" height="89" as="geometry" />
         </mxCell>
         <mxCell id="8Co0hYgaPJTQhD8eIHv_-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;endArrow=block;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="8Co0hYgaPJTQhD8eIHv_-11" target="8Co0hYgaPJTQhD8eIHv_-10" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2323,6 +2323,9 @@
           <mxGeometry x="-0.2839" y="10" relative="1" as="geometry">
             <mxPoint x="15" y="5" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zk3g15BSygadUlKVL52m-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="8Co0hYgaPJTQhD8eIHv_-10" target="8Co0hYgaPJTQhD8eIHv_-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
