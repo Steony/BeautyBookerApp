@@ -2195,7 +2195,7 @@
           <mxGeometry x="1190" y="11300" width="194" height="90" as="geometry" />
         </mxCell>
         <mxCell id="8Co0hYgaPJTQhD8eIHv_-2" value="Ecrire un avis et une note&amp;nbsp; après consommation de la prestation" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
-          <mxGeometry x="100" y="11270" width="350" height="170" as="geometry" />
+          <mxGeometry x="155.93" y="11280" width="350" height="170" as="geometry" />
         </mxCell>
         <mxCell id="8Co0hYgaPJTQhD8eIHv_-3" value="Envoyer Email" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;fontSize=26;container=0;" parent="1" vertex="1">
           <mxGeometry x="1427.5" y="10854.5" width="145" height="70" as="geometry" />
