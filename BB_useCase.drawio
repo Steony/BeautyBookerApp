@@ -2283,11 +2283,11 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zk3g15BSygadUlKVL52m-1" value="Accepter ou refuser un remboursement" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="978.75" y="12740" width="345.5" height="140" as="geometry" />
+        <mxCell id="zk3g15BSygadUlKVL52m-1" value="Gérer les remboursements" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
+          <mxGeometry x="505.81" y="12765" width="345.5" height="140" as="geometry" />
         </mxCell>
         <mxCell id="zk3g15BSygadUlKVL52m-3" value="Consulter les paiements" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="135.5" y="12760" width="293" height="130" as="geometry" />
+          <mxGeometry x="70" y="12750" width="293" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
