@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="Page-1" id="6ZYqpIRizQXzz5DhEBzc">
-    <mxGraphModel dx="9512" dy="5802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7995" dy="5037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1424,7 +1424,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-139" value="&lt;font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Consulter son planning&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de réservations&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
-          <mxGeometry x="1214.63" y="12410" width="343.75" height="119" as="geometry" />
+          <mxGeometry x="1241" y="12330" width="343.75" height="119" as="geometry" />
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-140" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="p9FDVOX_jxRS19b3Ooo2-139" target="3LW0HmsVJS33gFks11Bm-181" edge="1">
           <mxGeometry x="0.0003" width="160" relative="1" as="geometry">
@@ -1784,10 +1784,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3LW0HmsVJS33gFks11Bm-9" value="Notification d&#39;un client qui a réservé" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;fontSize=26;container=0;" parent="1" vertex="1">
-          <mxGeometry x="670" y="12390" width="230" height="128" as="geometry" />
+          <mxGeometry x="160.75" y="12275" width="230" height="128" as="geometry" />
         </mxCell>
         <mxCell id="3LW0HmsVJS33gFks11Bm-10" value="Email&amp;nbsp; de prise de RDV" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
-          <mxGeometry x="815" y="12580" width="306.75" height="90" as="geometry" />
+          <mxGeometry x="5" y="12470" width="306.75" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3LW0HmsVJS33gFks11Bm-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;endArrow=block;endFill=0;" parent="1" source="3LW0HmsVJS33gFks11Bm-10" target="3LW0HmsVJS33gFks11Bm-9" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1795,7 +1795,7 @@
             <mxPoint x="552" y="13456" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3LW0HmsVJS33gFks11Bm-12" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="p9FDVOX_jxRS19b3Ooo2-143" target="3LW0HmsVJS33gFks11Bm-9" edge="1">
+        <mxCell id="3LW0HmsVJS33gFks11Bm-12" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="p9FDVOX_jxRS19b3Ooo2-143" target="3LW0HmsVJS33gFks11Bm-9" edge="1">
           <mxGeometry x="-0.1858" y="3" width="160" relative="1" as="geometry">
             <mxPoint x="400" y="13360" as="sourcePoint" />
             <mxPoint x="741" y="13306" as="targetPoint" />
@@ -1823,7 +1823,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3LW0HmsVJS33gFks11Bm-181" value="Gérer son planning de réservations" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
-          <mxGeometry x="1015.25" y="12210" width="330" height="110" as="geometry" />
+          <mxGeometry x="1036" y="12180" width="330" height="110" as="geometry" />
         </mxCell>
         <mxCell id="3LW0HmsVJS33gFks11Bm-182" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;entryX=0.772;entryY=0.897;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3LW0HmsVJS33gFks11Bm-181" target="p9FDVOX_jxRS19b3Ooo2-96" edge="1">
           <mxGeometry x="-0.0036" width="160" relative="1" as="geometry">
@@ -1977,6 +1977,19 @@
             <mxPoint x="2511" y="12734" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qYMJ6U--OR-Fwim8l8bK-3" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;exitX=0.622;exitY=0.971;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="p9FDVOX_jxRS19b3Ooo2-143" target="qYMJ6U--OR-Fwim8l8bK-4">
+          <mxGeometry x="-0.2012" y="3" width="160" relative="1" as="geometry">
+            <mxPoint x="708" y="12330" as="sourcePoint" />
+            <mxPoint x="787" y="12435" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qYMJ6U--OR-Fwim8l8bK-4" value="Recevoir des paiements" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="12460" width="290" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="qYMJ6U--OR-Fwim8l8bK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3LW0HmsVJS33gFks11Bm-10" target="3LW0HmsVJS33gFks11Bm-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
