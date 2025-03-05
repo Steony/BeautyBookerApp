@@ -2327,8 +2327,8 @@
         <mxCell id="zk3g15BSygadUlKVL52m-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="8Co0hYgaPJTQhD8eIHv_-10" target="8Co0hYgaPJTQhD8eIHv_-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zk3g15BSygadUlKVL52m-14" value="&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;&quot;&gt;demander un remboursement&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
-          <mxGeometry x="854.5" y="11450" width="300" height="80" as="geometry" />
+        <mxCell id="zk3g15BSygadUlKVL52m-14" value="&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;&quot;&gt;Demander un remboursement&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
+          <mxGeometry x="875" y="11450" width="300" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zk3g15BSygadUlKVL52m-15" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zk3g15BSygadUlKVL52m-14" target="p9FDVOX_jxRS19b3Ooo2-33">
           <mxGeometry x="-0.1494" y="1" width="160" relative="1" as="geometry">
