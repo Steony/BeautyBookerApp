@@ -1882,6 +1882,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_3SU234c0Qige1soAYjO-4" value="Voir les avis des clients" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" vertex="1" parent="1">
+          <mxGeometry x="561" y="11787.5" width="290" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="_3SU234c0Qige1soAYjO-5" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;exitX=0.748;exitY=0.919;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.293;entryY=0.073;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_3SU234c0Qige1soAYjO-4" target="p9FDVOX_jxRS19b3Ooo2-96">
+          <mxGeometry x="0.0003" width="160" relative="1" as="geometry">
+            <mxPoint x="1005" y="11908" as="sourcePoint" />
+            <mxPoint x="948" y="12017" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
