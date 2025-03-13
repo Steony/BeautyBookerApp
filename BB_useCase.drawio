@@ -23,7 +23,7 @@
           <mxGeometry x="4560" y="1563.5" width="180" height="310" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-6" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="-549" y="-2633.22" width="4760" height="8310" as="geometry" />
+          <mxGeometry x="-560" y="-2565" width="4760" height="8310" as="geometry" />
         </mxCell>
         <mxCell id="JcrogjCkA5fSQEfnVnb9-9" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=0.149;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;" parent="1" source="JcrogjCkA5fSQEfnVnb9-1" target="JcrogjCkA5fSQEfnVnb9-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -178,16 +178,6 @@
           <mxGeometry x="0.0123" width="160" relative="1" as="geometry">
             <mxPoint x="213" y="1011" as="sourcePoint" />
             <mxPoint x="139" y="860" as="targetPoint" />
-            <mxPoint x="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="O4oYYWf4ppTde2RlQpEJ-15" value="Contacter un prestataire par message intégré" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="3120" y="340" width="290" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="O4oYYWf4ppTde2RlQpEJ-16" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;exitX=0.021;exitY=0.388;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="O4oYYWf4ppTde2RlQpEJ-15" target="JcrogjCkA5fSQEfnVnb9-60" edge="1">
-          <mxGeometry x="0.0123" width="160" relative="1" as="geometry">
-            <mxPoint x="620" y="940" as="sourcePoint" />
-            <mxPoint x="499" y="875" as="targetPoint" />
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -487,16 +477,6 @@
             <mxPoint x="2915.500000000002" y="423.0000000000009" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ag9Fs28pgx7X8oVgpacB-41" value="Signaler un prestataire" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="3101.25" y="630" width="294" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="Ag9Fs28pgx7X8oVgpacB-43" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Ag9Fs28pgx7X8oVgpacB-41" target="JcrogjCkA5fSQEfnVnb9-60" edge="1">
-          <mxGeometry x="0.0123" width="160" relative="1" as="geometry">
-            <mxPoint x="2136" y="994" as="sourcePoint" />
-            <mxPoint x="1970" y="986" as="targetPoint" />
-            <mxPoint x="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Ag9Fs28pgx7X8oVgpacB-44" value="Email Modification de la réservation" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
           <mxGeometry x="1686" y="1100" width="290" height="117" as="geometry" />
         </mxCell>
@@ -580,16 +560,6 @@
             <mxPoint x="1045" y="-335" as="sourcePoint" />
             <mxPoint x="559" y="-226" as="targetPoint" />
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uC5Lagubd8C8kVA8-hUs-838" value="Contacter un prestataire par ses contacts" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="3050" y="160" width="290" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="uC5Lagubd8C8kVA8-hUs-839" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;exitX=0.04;exitY=0.68;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="uC5Lagubd8C8kVA8-hUs-838" target="JcrogjCkA5fSQEfnVnb9-60" edge="1">
-          <mxGeometry x="0.0123" width="160" relative="1" as="geometry">
-            <mxPoint x="3386" y="984" as="sourcePoint" />
-            <mxPoint x="3165" y="952" as="targetPoint" />
-            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uC5Lagubd8C8kVA8-hUs-843" value="Envoyer Email" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;fontSize=26;container=0;" parent="1" vertex="1">
