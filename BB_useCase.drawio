@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="Page-1" id="6ZYqpIRizQXzz5DhEBzc">
-    <mxGraphModel dx="7091" dy="5087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7013" dy="5538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1520,7 +1520,7 @@
         <mxCell id="zk3g15BSygadUlKVL52m-6" value="Sécurité et paiement" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="2210" y="12600" width="316.5" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="zk3g15BSygadUlKVL52m-7" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.784;entryY=0.114;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="zk3g15BSygadUlKVL52m-6" target="p9FDVOX_jxRS19b3Ooo2-162" edge="1">
+        <mxCell id="zk3g15BSygadUlKVL52m-7" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="zk3g15BSygadUlKVL52m-6" target="p9FDVOX_jxRS19b3Ooo2-197" edge="1">
           <mxGeometry x="-0.008" width="160" relative="1" as="geometry">
             <mxPoint x="2840" y="12576" as="sourcePoint" />
             <mxPoint x="500" y="12990" as="targetPoint" />
@@ -1673,10 +1673,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DkBVroSE5_2s6CW1Md7Q-1" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Accéder à la FAQ et aux politiques du site&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&amp;nbsp;(conditions générales, politique d&#39;annulation, etc.).&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="DkBVroSE5_2s6CW1Md7Q-1" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Accéder à la FAQ et aux politiques du site&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&amp;nbsp;(conditions générales, politique d&#39;annulation, etc.).&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-68.13" y="-2470" width="390" height="176" as="geometry" />
         </mxCell>
-        <mxCell id="DkBVroSE5_2s6CW1Md7Q-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="DkBVroSE5_2s6CW1Md7Q-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-2125" y="8578" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
