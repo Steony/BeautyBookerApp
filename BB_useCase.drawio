@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="Page-1" id="6ZYqpIRizQXzz5DhEBzc">
-    <mxGraphModel dx="10111" dy="5661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="12170" dy="6523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -710,7 +710,7 @@
           <mxGeometry x="-8.5" y="10730" width="207" height="124.5" as="geometry" />
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-39" value="Réserver une prestation" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;fontSize=26;container=0;" parent="1" vertex="1">
-          <mxGeometry x="2639.13" y="9720" width="272.5" height="100" as="geometry" />
+          <mxGeometry x="2687.5" y="9700" width="272.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-48" value="Afficher profil" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontSize=26;container=0;" parent="1" vertex="1">
           <mxGeometry x="408.0000000000002" y="11022.5" width="292" height="145" as="geometry" />
@@ -872,7 +872,7 @@
           <mxGeometry x="10.5" y="11030" width="254" height="130" as="geometry" />
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-108" value="Valider la réservation" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;" parent="1" vertex="1">
-          <mxGeometry x="2436.25" y="9890" width="270.5" height="140" as="geometry" />
+          <mxGeometry x="2315" y="10010" width="270.5" height="140" as="geometry" />
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-109" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;" parent="1" source="V7gHfOx7hnO1ar7uZVbb-1" target="p9FDVOX_jxRS19b3Ooo2-175" edge="1">
           <mxGeometry x="-0.0506" y="1" width="160" relative="1" as="geometry">
@@ -1206,7 +1206,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-258" value="Afficher le profil d&#39;un prestataire" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontSize=26;fontColor=#000000;container=0;" parent="1" vertex="1">
-          <mxGeometry x="2410" y="9530" width="398.25" height="120" as="geometry" />
+          <mxGeometry x="2210" y="9540" width="398.25" height="120" as="geometry" />
         </mxCell>
         <mxCell id="p9FDVOX_jxRS19b3Ooo2-259" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=26;curved=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="p9FDVOX_jxRS19b3Ooo2-258" target="p9FDVOX_jxRS19b3Ooo2-235" edge="1">
           <mxGeometry x="-0.0036" width="160" relative="1" as="geometry">
