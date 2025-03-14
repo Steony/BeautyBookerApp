@@ -1544,9 +1544,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_3SU234c0Qige1soAYjO-1" value="cocher" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2280" y="11660" width="70" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="_3SU234c0Qige1soAYjO-2" value="vérifier les ceertifications uploedé par les prestataires ( validé ou refusé)" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;container=0;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="762" y="4480" width="358" height="180" as="geometry" />
         </mxCell>
