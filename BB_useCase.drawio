@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.9">
   <diagram name="Page-1" id="6ZYqpIRizQXzz5DhEBzc">
-    <mxGraphModel dx="9246" dy="5935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="9974" dy="6147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1708,7 +1708,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8AI7107bab_8Dig6LlYa-219" value="Demander la suppresiion du compte" style="ellipse;whiteSpace=wrap;html=1;fontSize=44;container=0;" parent="1" vertex="1">
-          <mxGeometry x="9343" y="11295" width="344.75" height="120" as="geometry" />
+          <mxGeometry x="9310" y="11230" width="377.75" height="185" as="geometry" />
         </mxCell>
         <mxCell id="8AI7107bab_8Dig6LlYa-220" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=44;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="8AI7107bab_8Dig6LlYa-219" target="8AI7107bab_8Dig6LlYa-378" edge="1">
           <mxGeometry x="-0.1482" y="1" width="160" relative="1" as="geometry">
