@@ -129,7 +129,7 @@
         <mxCell id="deL_aeRn45r2BTkuG_Gf-0" value="#certification : String " style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" parent="qEeKyHEhCAI6KiBk3C8H-1" vertex="1">
           <mxGeometry y="78" width="536" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="deL_aeRn45r2BTkuG_Gf-1" value="#certificationStatus: Enum(Certified, Rejected)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" parent="qEeKyHEhCAI6KiBk3C8H-1" vertex="1">
+        <mxCell id="deL_aeRn45r2BTkuG_Gf-1" value="#certificationStatus: Enum(Approved, Rejected)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" parent="qEeKyHEhCAI6KiBk3C8H-1" vertex="1">
           <mxGeometry y="104" width="536" height="26" as="geometry" />
         </mxCell>
         <mxCell id="S8jbnvwkKn5QD4pEMCm1-12" value="#paymentsReceived : List&lt;Payment&gt; &gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" parent="qEeKyHEhCAI6KiBk3C8H-1" vertex="1">
