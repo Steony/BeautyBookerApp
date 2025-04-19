@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
   <diagram name="Page-1" id="6ZYqpIRizQXzz5DhEBzc">
-    <mxGraphModel dx="9974" dy="6147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="10089" dy="5834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1942,7 +1942,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8AI7107bab_8Dig6LlYa-264" value="Annuler une réservation&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=44;container=0;" parent="1" vertex="1">
-          <mxGeometry x="8150" y="12920" width="400" height="125" as="geometry" />
+          <mxGeometry x="8450" y="12942.5" width="400" height="125" as="geometry" />
         </mxCell>
         <mxCell id="8AI7107bab_8Dig6LlYa-265" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fontSize=44;" parent="1" source="8AI7107bab_8Dig6LlYa-197" target="8AI7107bab_8Dig6LlYa-266" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1951,27 +1951,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8AI7107bab_8Dig6LlYa-266" value="Accéder aux paramètres Admin" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;fontSize=44;container=0;" parent="1" vertex="1">
-          <mxGeometry x="7830" y="13110" width="360" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="8AI7107bab_8Dig6LlYa-267" value="Modifier les informations des utilisateurs" style="ellipse;whiteSpace=wrap;html=1;fontSize=44;container=0;" parent="1" vertex="1">
-          <mxGeometry x="8690" y="13540" width="518.75" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="8AI7107bab_8Dig6LlYa-268" value="Créer un compte utilisateur&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=44;container=0;" parent="1" vertex="1">
-          <mxGeometry x="9100.25" y="13334.5" width="375.75" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="8AI7107bab_8Dig6LlYa-269" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=44;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="8AI7107bab_8Dig6LlYa-268" target="8AI7107bab_8Dig6LlYa-280" edge="1">
-          <mxGeometry x="-0.0036" width="160" relative="1" as="geometry">
-            <mxPoint x="8062.5" y="13974" as="sourcePoint" />
-            <mxPoint x="8153.5" y="13810" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8AI7107bab_8Dig6LlYa-270" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=44;curved=1;" parent="1" source="8AI7107bab_8Dig6LlYa-267" target="8AI7107bab_8Dig6LlYa-280" edge="1">
-          <mxGeometry x="-0.0122" width="160" relative="1" as="geometry">
-            <mxPoint x="8204" y="14320" as="sourcePoint" />
-            <mxPoint x="8185" y="14550" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
+          <mxGeometry x="7880" y="13095" width="400" height="250" as="geometry" />
         </mxCell>
         <mxCell id="8AI7107bab_8Dig6LlYa-271" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=44;curved=1;" parent="1" source="8AI7107bab_8Dig6LlYa-264" target="8AI7107bab_8Dig6LlYa-280" edge="1">
           <mxGeometry x="-0.008" width="160" relative="1" as="geometry">
@@ -1989,27 +1969,8 @@
             <mxPoint x="9224" y="11490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8AI7107bab_8Dig6LlYa-274" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=44;curved=1;entryX=0.054;entryY=0.643;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="8AI7107bab_8Dig6LlYa-268" target="8AI7107bab_8Dig6LlYa-275" edge="1">
-          <mxGeometry x="-0.1858" y="3" width="160" relative="1" as="geometry">
-            <mxPoint x="8770" y="14190" as="sourcePoint" />
-            <mxPoint x="8690" y="14174" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8AI7107bab_8Dig6LlYa-275" value="Envoyer Email" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;fontSize=44;container=0;" parent="1" vertex="1">
-          <mxGeometry x="9700" y="13450" width="255.25" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="8AI7107bab_8Dig6LlYa-276" value="Email création de compte" style="ellipse;whiteSpace=wrap;html=1;fontSize=44;container=0;" parent="1" vertex="1">
-          <mxGeometry x="10187" y="13506.5" width="375" height="115" as="geometry" />
-        </mxCell>
-        <mxCell id="8AI7107bab_8Dig6LlYa-277" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=44;endArrow=block;endFill=0;" parent="1" source="8AI7107bab_8Dig6LlYa-276" target="8AI7107bab_8Dig6LlYa-275" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="9004" y="14210" as="sourcePoint" />
-            <mxPoint x="9098" y="14170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="8AI7107bab_8Dig6LlYa-278" value="Email suppression de compte" style="ellipse;whiteSpace=wrap;html=1;fontSize=44;container=0;" parent="1" vertex="1">
-          <mxGeometry x="10316.5" y="13240" width="385" height="150" as="geometry" />
+          <mxGeometry x="10276.25" y="13444" width="385" height="150" as="geometry" />
         </mxCell>
         <mxCell id="8AI7107bab_8Dig6LlYa-279" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=44;endArrow=block;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="8AI7107bab_8Dig6LlYa-278" target="8AI7107bab_8Dig6LlYa-287" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2018,7 +1979,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8AI7107bab_8Dig6LlYa-280" value="Gérer les comptes des utilisateurs&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=44;container=0;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="8524.380000000001" y="13084" width="360" height="188" as="geometry" />
+          <mxGeometry x="8638.12" y="13200" width="360" height="188" as="geometry" />
         </mxCell>
         <mxCell id="8AI7107bab_8Dig6LlYa-281" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=44;curved=1;exitX=0.005;exitY=0.356;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="8AI7107bab_8Dig6LlYa-280" target="8AI7107bab_8Dig6LlYa-266" edge="1">
           <mxGeometry x="-0.0036" width="160" relative="1" as="geometry">
@@ -2028,22 +1989,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8AI7107bab_8Dig6LlYa-282" value="Supprimer un compte utilisateur&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=44;container=0;" parent="1" vertex="1">
-          <mxGeometry x="9400" y="13140" width="411.5" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="8AI7107bab_8Dig6LlYa-283" value="Désactiver/Réactiver un compte utilisateur&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=44;container=0;" parent="1" vertex="1">
-          <mxGeometry x="8070" y="13730" width="426" height="180" as="geometry" />
+          <mxGeometry x="9184.25" y="13340" width="411.5" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8AI7107bab_8Dig6LlYa-284" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=44;curved=1;" parent="1" source="8AI7107bab_8Dig6LlYa-282" target="8AI7107bab_8Dig6LlYa-280" edge="1">
           <mxGeometry x="-0.0036" width="160" relative="1" as="geometry">
             <mxPoint x="8532" y="14320" as="sourcePoint" />
             <mxPoint x="8398" y="14393" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8AI7107bab_8Dig6LlYa-285" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=44;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="8AI7107bab_8Dig6LlYa-283" target="8AI7107bab_8Dig6LlYa-280" edge="1">
-          <mxGeometry x="-0.0036" width="160" relative="1" as="geometry">
-            <mxPoint x="8549.75" y="14420" as="sourcePoint" />
-            <mxPoint x="9130" y="15380" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -2055,45 +2006,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8AI7107bab_8Dig6LlYa-287" value="Envoyer Email" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;fontSize=44;container=0;" parent="1" vertex="1">
-          <mxGeometry x="9955.249999999998" y="13220" width="237" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="8AI7107bab_8Dig6LlYa-288" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=44;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8AI7107bab_8Dig6LlYa-283" target="8AI7107bab_8Dig6LlYa-289" edge="1">
-          <mxGeometry x="-0.1858" y="3" width="160" relative="1" as="geometry">
-            <mxPoint x="8705" y="14365" as="sourcePoint" />
-            <mxPoint x="8823" y="14331" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8AI7107bab_8Dig6LlYa-289" value="Envoyer Email" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;fontSize=44;container=0;" parent="1" vertex="1">
-          <mxGeometry x="8690" y="13890" width="287" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="8AI7107bab_8Dig6LlYa-290" value="Email suspension de compte" style="ellipse;whiteSpace=wrap;html=1;fontSize=44;container=0;" parent="1" vertex="1">
-          <mxGeometry x="9070" y="13900" width="330" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="8AI7107bab_8Dig6LlYa-291" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=44;endArrow=block;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="8AI7107bab_8Dig6LlYa-290" target="8AI7107bab_8Dig6LlYa-289" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="9083.5" y="14425" as="sourcePoint" />
-            <mxPoint x="8991.5" y="14440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8AI7107bab_8Dig6LlYa-292" value="Envoyer Email" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;fontSize=44;container=0;" parent="1" vertex="1">
-          <mxGeometry x="9485.75" y="13650" width="230" height="132" as="geometry" />
-        </mxCell>
-        <mxCell id="8AI7107bab_8Dig6LlYa-293" value="Email&amp;nbsp; modification de compte" style="ellipse;whiteSpace=wrap;html=1;fontSize=44;container=0;" parent="1" vertex="1">
-          <mxGeometry x="9873.119999999999" y="13730" width="412.38" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="8AI7107bab_8Dig6LlYa-294" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=44;curved=1;" parent="1" source="8AI7107bab_8Dig6LlYa-267" target="8AI7107bab_8Dig6LlYa-292" edge="1">
-          <mxGeometry x="-0.1858" y="3" width="160" relative="1" as="geometry">
-            <mxPoint x="8160" y="14225" as="sourcePoint" />
-            <mxPoint x="8295" y="14172" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8AI7107bab_8Dig6LlYa-295" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=44;endArrow=block;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="8AI7107bab_8Dig6LlYa-293" target="8AI7107bab_8Dig6LlYa-292" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="8130" y="14090" as="sourcePoint" />
-            <mxPoint x="8190" y="14030" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="9890.629999999997" y="13380" width="237" height="100" as="geometry" />
         </mxCell>
         <mxCell id="8AI7107bab_8Dig6LlYa-296" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=44;" parent="1" source="8AI7107bab_8Dig6LlYa-225" target="8AI7107bab_8Dig6LlYa-225" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2336,8 +2249,8 @@
             <mxPoint x="9348.380000000001" y="11621" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8AI7107bab_8Dig6LlYa-344" value="Modérer les avis clients" style="ellipse;whiteSpace=wrap;html=1;fontSize=44;container=0;" parent="1" vertex="1">
-          <mxGeometry x="7877" y="13499" width="293" height="130" as="geometry" />
+        <mxCell id="8AI7107bab_8Dig6LlYa-344" value="Modérer (supression) les avis clients" style="ellipse;whiteSpace=wrap;html=1;fontSize=44;container=0;" parent="1" vertex="1">
+          <mxGeometry x="8360" y="13510" width="380" height="230" as="geometry" />
         </mxCell>
         <mxCell id="8AI7107bab_8Dig6LlYa-345" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=44;curved=1;" parent="1" source="8AI7107bab_8Dig6LlYa-344" target="8AI7107bab_8Dig6LlYa-280" edge="1">
           <mxGeometry x="-0.008" width="160" relative="1" as="geometry">
@@ -2347,7 +2260,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8AI7107bab_8Dig6LlYa-353" value="Consulter les informations de paiement" style="ellipse;whiteSpace=wrap;html=1;fontSize=44;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="9660" y="12900" width="390" height="210" as="geometry" />
+          <mxGeometry x="9270" y="13020" width="390" height="210" as="geometry" />
         </mxCell>
         <mxCell id="8AI7107bab_8Dig6LlYa-354" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=44;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="8AI7107bab_8Dig6LlYa-353" target="8AI7107bab_8Dig6LlYa-280" edge="1">
           <mxGeometry x="-0.008" width="160" relative="1" as="geometry">
@@ -2360,7 +2273,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8AI7107bab_8Dig6LlYa-360" value="&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Consulter les montants, dates et statuts des paiements prévus&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(89, 89, 89); font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none white-space-prewrap&quot;&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=44;container=0;" parent="1" vertex="1">
-          <mxGeometry x="10410" y="12870" width="482.5" height="260" as="geometry" />
+          <mxGeometry x="9924" y="12980" width="482.5" height="260" as="geometry" />
         </mxCell>
         <mxCell id="8AI7107bab_8Dig6LlYa-361" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=44;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8AI7107bab_8Dig6LlYa-360" target="8AI7107bab_8Dig6LlYa-353" edge="1">
           <mxGeometry x="-0.008" width="160" relative="1" as="geometry">
@@ -2413,6 +2326,16 @@
         </mxCell>
         <mxCell id="8AI7107bab_8Dig6LlYa-388" value="&lt;font style=&quot;font-size: 49px;&quot;&gt;Ce diagramme est aligné avec le MVP 1.0 : les paiements sont effectués hors ligne, mais visibles pour traçabilité.&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;strokeWidth=9;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="10490" y="8674.52" width="1150" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="a0Nz93gIo4L3d2awUybV-1" value="Se déconnecter" style="ellipse;whiteSpace=wrap;html=1;fontSize=44;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;container=0;" vertex="1" parent="1">
+          <mxGeometry x="8014" y="12850" width="338.75" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="a0Nz93gIo4L3d2awUybV-3" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=44;curved=1;exitX=0.738;exitY=0.902;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="a0Nz93gIo4L3d2awUybV-1" target="8AI7107bab_8Dig6LlYa-266">
+          <mxGeometry x="-0.008" width="160" relative="1" as="geometry">
+            <mxPoint x="8169" y="13052" as="sourcePoint" />
+            <mxPoint x="8327" y="13200" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
