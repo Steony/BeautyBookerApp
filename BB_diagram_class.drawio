@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="6227" dy="3865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7799" dy="4687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -2574,7 +2574,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xR8gQi53HunObxzbt_K1-395" value="Email suppression de compte" style="ellipse;whiteSpace=wrap;html=1;fontSize=44;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="14706.25" y="16557.22" width="385" height="150" as="geometry" />
+          <mxGeometry x="14706.25" y="16770" width="385" height="150" as="geometry" />
         </mxCell>
         <mxCell id="xR8gQi53HunObxzbt_K1-396" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=44;endArrow=block;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xR8gQi53HunObxzbt_K1-395" target="xR8gQi53HunObxzbt_K1-402">
           <mxGeometry relative="1" as="geometry">
@@ -2593,7 +2593,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xR8gQi53HunObxzbt_K1-399" value="Supprimer un compte utilisateur&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=44;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="13614.25" y="16453.22" width="411.5" height="140" as="geometry" />
+          <mxGeometry x="13580" y="16707.22" width="411.5" height="140" as="geometry" />
         </mxCell>
         <mxCell id="xR8gQi53HunObxzbt_K1-400" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=44;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xR8gQi53HunObxzbt_K1-399" target="xR8gQi53HunObxzbt_K1-397">
           <mxGeometry x="-0.0036" width="160" relative="1" as="geometry">
@@ -2610,7 +2610,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xR8gQi53HunObxzbt_K1-402" value="Envoyer Email" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;fontSize=44;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="14320.629999999997" y="16493.22" width="237" height="100" as="geometry" />
+          <mxGeometry x="14320.629999999997" y="16770" width="237" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xR8gQi53HunObxzbt_K1-403" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=44;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xR8gQi53HunObxzbt_K1-350" target="xR8gQi53HunObxzbt_K1-350">
           <mxGeometry relative="1" as="geometry" />
@@ -2864,10 +2864,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xR8gQi53HunObxzbt_K1-453" value="Consulter les informations de paiement" style="ellipse;whiteSpace=wrap;html=1;fontSize=44;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="13700" y="16133.22" width="390" height="210" as="geometry" />
+          <mxGeometry x="13727.75" y="16360" width="390" height="210" as="geometry" />
         </mxCell>
         <mxCell id="xR8gQi53HunObxzbt_K1-454" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=44;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xR8gQi53HunObxzbt_K1-453" target="xR8gQi53HunObxzbt_K1-397">
-          <mxGeometry x="-0.008" width="160" relative="1" as="geometry">
+          <mxGeometry x="-0.0057" width="160" relative="1" as="geometry">
             <mxPoint x="15060" y="15809.22" as="sourcePoint" />
             <mxPoint x="12720" y="16223.22" as="targetPoint" />
             <mxPoint as="offset" />
@@ -2877,7 +2877,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xR8gQi53HunObxzbt_K1-456" value="&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Consulter les montants, dates et statuts des paiements prévus&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(89, 89, 89); font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none white-space-prewrap&quot;&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=44;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="14354" y="16093.22" width="482.5" height="260" as="geometry" />
+          <mxGeometry x="14370" y="16400" width="482.5" height="260" as="geometry" />
         </mxCell>
         <mxCell id="xR8gQi53HunObxzbt_K1-457" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=44;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xR8gQi53HunObxzbt_K1-456" target="xR8gQi53HunObxzbt_K1-453">
           <mxGeometry x="-0.008" width="160" relative="1" as="geometry">
@@ -2938,6 +2938,16 @@
           <mxGeometry x="-0.008" width="160" relative="1" as="geometry">
             <mxPoint x="12599" y="16165.22" as="sourcePoint" />
             <mxPoint x="12757" y="16313.22" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xR8gQi53HunObxzbt_K1-469" value="Consulter l’historique des actions utilisateurs" style="ellipse;whiteSpace=wrap;html=1;fontSize=44;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="13641.5" y="16103.22" width="510" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="xR8gQi53HunObxzbt_K1-470" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=44;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xR8gQi53HunObxzbt_K1-469" target="xR8gQi53HunObxzbt_K1-397">
+          <mxGeometry x="-0.0057" width="160" relative="1" as="geometry">
+            <mxPoint x="13584" y="16313.22" as="sourcePoint" />
+            <mxPoint x="13280" y="16276.22" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
