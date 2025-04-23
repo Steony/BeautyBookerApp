@@ -2174,7 +2174,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8AI7107bab_8Dig6LlYa-333" value="&amp;nbsp;Annuler réservation" style="ellipse;whiteSpace=wrap;html=1;fontSize=44;container=0;" parent="1" vertex="1">
-          <mxGeometry x="9307.619999999999" y="11550" width="331.88" height="140" as="geometry" />
+          <mxGeometry x="9349.999999999998" y="11500" width="331.88" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8AI7107bab_8Dig6LlYa-334" value="Ecrire un avis et une note&amp;nbsp; après consommation de la prestation" style="ellipse;whiteSpace=wrap;html=1;fontSize=44;container=0;" parent="1" vertex="1">
           <mxGeometry x="7857" y="11400" width="580" height="230" as="geometry" />
@@ -2210,7 +2210,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8AI7107bab_8Dig6LlYa-341" value="Envoyer Email" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;fontSize=44;container=0;" parent="1" vertex="1">
-          <mxGeometry x="9827.75" y="11490" width="292.25" height="110" as="geometry" />
+          <mxGeometry x="9858.38" y="11500" width="292.25" height="110" as="geometry" />
         </mxCell>
         <mxCell id="8AI7107bab_8Dig6LlYa-342" value="Email confirmation d&#39;annulation" style="ellipse;whiteSpace=wrap;html=1;fontSize=44;container=0;" parent="1" vertex="1">
           <mxGeometry x="10276.25" y="11490" width="340" height="169" as="geometry" />
