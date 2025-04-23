@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="4189" dy="2769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4239" dy="2865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -2927,53 +2927,47 @@
         <mxCell id="LgcdPhRPJX6D3hv3DdyL-6" value="+reactivateUser(userId : int)  : Boolean" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" parent="LgcdPhRPJX6D3hv3DdyL-2" vertex="1">
           <mxGeometry y="252.09756097560975" width="294.6428571428571" height="28.53658536585366" as="geometry" />
         </mxCell>
-        <mxCell id="MlMMFMGEadSPm3vhNVkb-0" value="+ getAllActiveCustomers() : List&lt;Customer&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" vertex="1" parent="LgcdPhRPJX6D3hv3DdyL-2">
+        <mxCell id="MlMMFMGEadSPm3vhNVkb-0" value="+getCustomersByStatus(status: boolean)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" parent="LgcdPhRPJX6D3hv3DdyL-2" vertex="1">
           <mxGeometry y="280.6341463414634" width="294.6428571428571" height="28.53658536585366" as="geometry" />
         </mxCell>
-        <mxCell id="MlMMFMGEadSPm3vhNVkb-1" value="+ getAllSuspendedCustomers() : List&lt;Customer&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" vertex="1" parent="LgcdPhRPJX6D3hv3DdyL-2">
+        <mxCell id="MlMMFMGEadSPm3vhNVkb-1" value="+getProvidersByStatus(status: boolean)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" parent="LgcdPhRPJX6D3hv3DdyL-2" vertex="1">
           <mxGeometry y="309.1707317073171" width="294.6428571428571" height="28.53658536585366" as="geometry" />
         </mxCell>
-        <mxCell id="MlMMFMGEadSPm3vhNVkb-2" value="+ getAllActiveProviders() : List&lt;Provider&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" vertex="1" parent="LgcdPhRPJX6D3hv3DdyL-2">
+        <mxCell id="LgcdPhRPJX6D3hv3DdyL-7" value="+deleteUser(userId : int) : Boolean" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" parent="LgcdPhRPJX6D3hv3DdyL-2" vertex="1">
           <mxGeometry y="337.70731707317077" width="294.6428571428571" height="28.53658536585366" as="geometry" />
         </mxCell>
-        <mxCell id="MlMMFMGEadSPm3vhNVkb-3" value="+ getAllSuspendedProviders() : List&lt;Provider&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" vertex="1" parent="LgcdPhRPJX6D3hv3DdyL-2">
+        <mxCell id="hvYg_0DqKXhdluhFffHA-1" value="+getAllBookings(): List&lt;Booking&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" parent="LgcdPhRPJX6D3hv3DdyL-2" vertex="1">
           <mxGeometry y="366.24390243902445" width="294.6428571428571" height="28.53658536585366" as="geometry" />
         </mxCell>
-        <mxCell id="LgcdPhRPJX6D3hv3DdyL-7" value="+deleteUser(userId : int) : Boolean" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" parent="LgcdPhRPJX6D3hv3DdyL-2" vertex="1">
+        <mxCell id="hvYg_0DqKXhdluhFffHA-2" value="+getBookingById(bookingId: int): Booking" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" parent="LgcdPhRPJX6D3hv3DdyL-2" vertex="1">
           <mxGeometry y="394.78048780487813" width="294.6428571428571" height="28.53658536585366" as="geometry" />
         </mxCell>
-        <mxCell id="hvYg_0DqKXhdluhFffHA-1" value="+getAllBookings(): List&lt;Booking&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" parent="LgcdPhRPJX6D3hv3DdyL-2" vertex="1">
+        <mxCell id="S8jbnvwkKn5QD4pEMCm1-9" value="+updateBooking(bookingId: int)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" parent="LgcdPhRPJX6D3hv3DdyL-2" vertex="1">
           <mxGeometry y="423.3170731707318" width="294.6428571428571" height="28.53658536585366" as="geometry" />
         </mxCell>
-        <mxCell id="hvYg_0DqKXhdluhFffHA-2" value="+getBookingById(bookingId: int): Booking" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" parent="LgcdPhRPJX6D3hv3DdyL-2" vertex="1">
+        <mxCell id="S8jbnvwkKn5QD4pEMCm1-8" value="+cancelBooking(bookingId: int)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" parent="LgcdPhRPJX6D3hv3DdyL-2" vertex="1">
           <mxGeometry y="451.8536585365855" width="294.6428571428571" height="28.53658536585366" as="geometry" />
         </mxCell>
-        <mxCell id="S8jbnvwkKn5QD4pEMCm1-9" value="+updateBooking(bookingId: int)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" parent="LgcdPhRPJX6D3hv3DdyL-2" vertex="1">
+        <mxCell id="hvYg_0DqKXhdluhFffHA-5" value="+getAllReviews(): List&lt;Review&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" parent="LgcdPhRPJX6D3hv3DdyL-2" vertex="1">
           <mxGeometry y="480.3902439024392" width="294.6428571428571" height="28.53658536585366" as="geometry" />
         </mxCell>
-        <mxCell id="S8jbnvwkKn5QD4pEMCm1-8" value="+cancelBooking(bookingId: int)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" parent="LgcdPhRPJX6D3hv3DdyL-2" vertex="1">
+        <mxCell id="hvYg_0DqKXhdluhFffHA-3" value="+getReviewById(reviewId: int): Review" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" parent="LgcdPhRPJX6D3hv3DdyL-2" vertex="1">
           <mxGeometry y="508.92682926829286" width="294.6428571428571" height="28.53658536585366" as="geometry" />
         </mxCell>
-        <mxCell id="hvYg_0DqKXhdluhFffHA-5" value="+getAllReviews(): List&lt;Review&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" parent="LgcdPhRPJX6D3hv3DdyL-2" vertex="1">
-          <mxGeometry y="537.4634146341465" width="294.6428571428571" height="28.53658536585366" as="geometry" />
-        </mxCell>
-        <mxCell id="hvYg_0DqKXhdluhFffHA-3" value="+getReviewById(reviewId: int): Review" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" parent="LgcdPhRPJX6D3hv3DdyL-2" vertex="1">
-          <mxGeometry y="566.0000000000001" width="294.6428571428571" height="28.53658536585366" as="geometry" />
-        </mxCell>
         <mxCell id="S8jbnvwkKn5QD4pEMCm1-10" value="+deleteReview(reviewId: int)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" parent="LgcdPhRPJX6D3hv3DdyL-2" vertex="1">
-          <mxGeometry y="594.5365853658537" width="294.6428571428571" height="27.71" as="geometry" />
+          <mxGeometry y="537.4634146341465" width="294.6428571428571" height="27.71" as="geometry" />
         </mxCell>
         <mxCell id="FJ9PU2pGZg8mrga6Q1DG-24" value="+processRefund(): Boolean" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" parent="LgcdPhRPJX6D3hv3DdyL-2" vertex="1">
-          <mxGeometry y="622.2465853658538" width="294.6428571428571" height="28.54" as="geometry" />
+          <mxGeometry y="565.1734146341465" width="294.6428571428571" height="28.54" as="geometry" />
         </mxCell>
         <mxCell id="hvYg_0DqKXhdluhFffHA-4" value="+getAllPayments(): List&lt;Payment&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" parent="LgcdPhRPJX6D3hv3DdyL-2" vertex="1">
-          <mxGeometry y="650.7865853658537" width="294.6428571428571" height="28.54" as="geometry" />
+          <mxGeometry y="593.7134146341465" width="294.6428571428571" height="28.54" as="geometry" />
         </mxCell>
         <mxCell id="FJ9PU2pGZg8mrga6Q1DG-29" value="+getPaymentsByCustomer(): List&lt;Payment&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" parent="LgcdPhRPJX6D3hv3DdyL-2" vertex="1">
-          <mxGeometry y="679.3265853658537" width="294.6428571428571" height="37.31707317073171" as="geometry" />
+          <mxGeometry y="622.2534146341465" width="294.6428571428571" height="37.31707317073171" as="geometry" />
         </mxCell>
         <mxCell id="deL_aeRn45r2BTkuG_Gf-4" value="+validateCertification(providerId: int, status: Enum) " style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" parent="LgcdPhRPJX6D3hv3DdyL-2" vertex="1">
-          <mxGeometry y="716.6436585365855" width="294.6428571428571" height="37.31707317073171" as="geometry" />
+          <mxGeometry y="659.5704878048782" width="294.6428571428571" height="37.31707317073171" as="geometry" />
         </mxCell>
         <mxCell id="LgcdPhRPJX6D3hv3DdyL-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.991;entryY=0.792;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.002;exitY=0.801;exitDx=0;exitDy=0;exitPerimeter=0;" parent="LgcdPhRPJX6D3hv3DdyL-2" source="FJ9PU2pGZg8mrga6Q1DG-31" target="FJ9PU2pGZg8mrga6Q1DG-31" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
