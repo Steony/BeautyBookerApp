@@ -24,7 +24,7 @@
         <mxCell id="LgcdPhRPJX6D3hv3DdyL-40" value="+checkAvailability(scheduleId: int) : Boolean" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;container=0;" parent="zkfFHV4jXpPFQw0GAbJ--6" vertex="1">
           <mxGeometry y="130" width="290" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="fPvpjBKywe-B0qF7BTDy-2" value="+checkAvailability(scheduleId: int) : Boolean" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;container=0;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--6">
+        <mxCell id="fPvpjBKywe-B0qF7BTDy-2" value="+getBookingSchedule(): Schedule&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;container=0;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--6">
           <mxGeometry y="156" width="290" height="26" as="geometry" />
         </mxCell>
         <mxCell id="LgcdPhRPJX6D3hv3DdyL-41" value="" style="endArrow=none;html=1;rounded=0;exitX=0.002;exitY=0.052;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.994;entryY=0.057;entryDx=0;entryDy=0;entryPerimeter=0;" parent="zkfFHV4jXpPFQw0GAbJ--6" source="LgcdPhRPJX6D3hv3DdyL-40" target="LgcdPhRPJX6D3hv3DdyL-40" edge="1">
