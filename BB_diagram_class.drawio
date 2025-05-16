@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="5305" dy="3441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4784" dy="3086" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -3548,7 +3548,7 @@
           <mxGeometry x="3591" y="-1598.48" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="15cvuibfH3NCaci-gAok-156" value="Admin" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=3;container=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2525" y="-2200" width="364.64" height="854.9329268292688" as="geometry">
+          <mxGeometry x="2525" y="-2200" width="364.64" height="790" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -3618,17 +3618,11 @@
         <mxCell id="15cvuibfH3NCaci-gAok-180" value="+getUserActionLogsByUserId(userId: int) : List&lt;UserActionLog&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" vertex="1" parent="15cvuibfH3NCaci-gAok-156">
           <mxGeometry y="668.34756097561" width="364.64" height="37.31707317073171" as="geometry" />
         </mxCell>
-        <mxCell id="15cvuibfH3NCaci-gAok-181" value="+getAllActiveCustomers() : List&lt;Customer&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" vertex="1" parent="15cvuibfH3NCaci-gAok-156">
+        <mxCell id="15cvuibfH3NCaci-gAok-181" value="+getAllCustomersByStatus(boolean isActive): List&lt;Customer&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" vertex="1" parent="15cvuibfH3NCaci-gAok-156">
           <mxGeometry y="705.6646341463418" width="364.64" height="37.31707317073171" as="geometry" />
         </mxCell>
-        <mxCell id="15cvuibfH3NCaci-gAok-182" value="+getAllSuspendedCustomers() : List&lt;Customer&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" vertex="1" parent="15cvuibfH3NCaci-gAok-156">
+        <mxCell id="15cvuibfH3NCaci-gAok-182" value="+getAllProvidersByStatus(boolean isActive): List&lt;Providers&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" vertex="1" parent="15cvuibfH3NCaci-gAok-156">
           <mxGeometry y="742.9817073170735" width="364.64" height="37.31707317073171" as="geometry" />
-        </mxCell>
-        <mxCell id="15cvuibfH3NCaci-gAok-183" value="+getAllActiveProviders() : List&lt;Provider&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" vertex="1" parent="15cvuibfH3NCaci-gAok-156">
-          <mxGeometry y="780.2987804878053" width="364.64" height="37.31707317073171" as="geometry" />
-        </mxCell>
-        <mxCell id="15cvuibfH3NCaci-gAok-184" value="+getAllSuspendedProviders() : List&lt;Provider&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" vertex="1" parent="15cvuibfH3NCaci-gAok-156">
-          <mxGeometry y="817.615853658537" width="364.64" height="37.31707317073171" as="geometry" />
         </mxCell>
         <mxCell id="15cvuibfH3NCaci-gAok-185" value="" style="endArrow=none;html=1;rounded=0;entryX=0.991;entryY=0.792;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.002;exitY=0.801;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="15cvuibfH3NCaci-gAok-156" source="15cvuibfH3NCaci-gAok-159" target="15cvuibfH3NCaci-gAok-159">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
