@@ -3541,7 +3541,7 @@
         <mxCell id="15cvuibfH3NCaci-gAok-173" value="+getReviewById(reviewId: int): Review" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" vertex="1" parent="15cvuibfH3NCaci-gAok-156">
           <mxGeometry y="396.97560975609764" width="720" height="28.53658536585366" as="geometry" />
         </mxCell>
-        <mxCell id="15cvuibfH3NCaci-gAok-174" value="+deleteReview(reviewId: int)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" vertex="1" parent="15cvuibfH3NCaci-gAok-156">
+        <mxCell id="15cvuibfH3NCaci-gAok-174" value="+deleteReview(reviewId: int) : Boolean&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" vertex="1" parent="15cvuibfH3NCaci-gAok-156">
           <mxGeometry y="425.5121951219513" width="720" height="27.71" as="geometry" />
         </mxCell>
         <mxCell id="15cvuibfH3NCaci-gAok-176" value="+getAllPayments(): List&lt;Payment&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" vertex="1" parent="15cvuibfH3NCaci-gAok-156">
