@@ -3488,10 +3488,10 @@
         <mxCell id="1suncA-tpUtVwazBk-I_-82" value="+getAllServices() : List&lt;MakeupService&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" vertex="1" parent="15cvuibfH3NCaci-gAok-156">
           <mxGeometry y="282.8292682926829" width="330" height="28.53658536585366" as="geometry" />
         </mxCell>
-        <mxCell id="1suncA-tpUtVwazBk-I_-83" value="getAllReviews()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" vertex="1" parent="15cvuibfH3NCaci-gAok-156">
+        <mxCell id="1suncA-tpUtVwazBk-I_-83" value="+getAllReviews()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" vertex="1" parent="15cvuibfH3NCaci-gAok-156">
           <mxGeometry y="311.3658536585366" width="330" height="28.53658536585366" as="geometry" />
         </mxCell>
-        <mxCell id="1suncA-tpUtVwazBk-I_-84" value="getAllCategories()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" vertex="1" parent="15cvuibfH3NCaci-gAok-156">
+        <mxCell id="1suncA-tpUtVwazBk-I_-84" value="+getAllCategories()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" vertex="1" parent="15cvuibfH3NCaci-gAok-156">
           <mxGeometry y="339.9024390243903" width="330" height="28.53658536585366" as="geometry" />
         </mxCell>
         <mxCell id="1suncA-tpUtVwazBk-I_-85" value="+deleteReview(reviewId: String) : Boolean" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" vertex="1" parent="15cvuibfH3NCaci-gAok-156">
