@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="4774" dy="3085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4343" dy="3128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -3208,7 +3208,7 @@
           <mxGeometry x="4110" y="-1650" width="355" height="360" as="geometry" />
         </mxCell>
         <mxCell id="MfVrfE3T8ESGlt4kIMSz-0" value="&lt;div&gt;&lt;b&gt;Note : Lorsqu&#39;un utilisateur est supprimé par l&#39;Admin,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;ses logs d&#39;action sont automatiquement anonymisés.&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="15cvuibfH3NCaci-gAok-83" vertex="1">
-          <mxGeometry x="-27.5" y="240.96000000000004" width="310" height="64" as="geometry" />
+          <mxGeometry x="-30" y="277.25000000000006" width="310" height="64" as="geometry" />
         </mxCell>
         <mxCell id="15cvuibfH3NCaci-gAok-85" value="" style="group" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
           <mxGeometry x="3398" y="-492" width="647.5" height="580" as="geometry" />
