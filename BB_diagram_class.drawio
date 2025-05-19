@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="4489" dy="2936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4397" dy="2893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -3356,13 +3356,13 @@
         <mxCell id="1suncA-tpUtVwazBk-I_-40" value="+createPayment(bookingId: Long, amount: double, status: PaymentStatus) : Payment" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="15cvuibfH3NCaci-gAok-133" vertex="1">
           <mxGeometry y="130" width="730" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="1suncA-tpUtVwazBk-I_-51" value="+confirmPaymentByCustomer(paymentId: Long, customerId: Long) : Boolean" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="15cvuibfH3NCaci-gAok-133" vertex="1">
+        <mxCell id="1suncA-tpUtVwazBk-I_-51" value="+confirmPaymentByCustomer(paymentId: Long, customerId: Long) : Boolean [Acces method Customer]" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="15cvuibfH3NCaci-gAok-133" vertex="1">
           <mxGeometry y="156" width="730" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="1suncA-tpUtVwazBk-I_-56" value="+confirmPaymentByProvider(paymentId: Long, providerId: Long) : Boolean" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="15cvuibfH3NCaci-gAok-133" vertex="1">
+        <mxCell id="1suncA-tpUtVwazBk-I_-56" value="+confirmPaymentByProvider(paymentId: Long, providerId: Long) : Boolean [Acces method Provider]" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="15cvuibfH3NCaci-gAok-133" vertex="1">
           <mxGeometry y="182" width="730" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="1suncA-tpUtVwazBk-I_-55" value="+getPaymentsByCustomer(customerId: Long) : List&lt;Payment&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="15cvuibfH3NCaci-gAok-133" vertex="1">
+        <mxCell id="1suncA-tpUtVwazBk-I_-55" value="+getPaymentsByCustomer(customerId: Long) : List&lt;Payment&gt; [Acces method Customer, Admin]" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="15cvuibfH3NCaci-gAok-133" vertex="1">
           <mxGeometry y="208" width="730" height="26" as="geometry" />
         </mxCell>
         <mxCell id="1suncA-tpUtVwazBk-I_-39" value="" style="endArrow=none;html=1;rounded=0;exitX=0.006;exitY=0.055;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;" parent="15cvuibfH3NCaci-gAok-133" source="1suncA-tpUtVwazBk-I_-40" target="15cvuibfH3NCaci-gAok-138" edge="1">
@@ -3371,13 +3371,13 @@
             <mxPoint x="315" y="311.52" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1suncA-tpUtVwazBk-I_-57" value="+getPaymentsByProvider(providerId: Long) : List&lt;Payment&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="15cvuibfH3NCaci-gAok-133" vertex="1">
+        <mxCell id="1suncA-tpUtVwazBk-I_-57" value="+getPaymentsByProvider(providerId: Long) : List&lt;Payment&gt; [Acces method  Provider, Admin]" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="15cvuibfH3NCaci-gAok-133" vertex="1">
           <mxGeometry y="234" width="730" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3vltk7kAs9l9UOS3GiwP-1" value="+getAllPayments() : List&lt;Payment&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="15cvuibfH3NCaci-gAok-133">
+        <mxCell id="3vltk7kAs9l9UOS3GiwP-1" value="+getAllPayments() : List&lt;Payment&gt; [Acces method Admin]" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="15cvuibfH3NCaci-gAok-133">
           <mxGeometry y="260" width="730" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="1suncA-tpUtVwazBk-I_-50" value="+updatePaymentStatus(paymentId: Long, status: PaymentStatus, adminId: Long) : Boolean&#xa;(PENDING, COMPLETED, FAILED) " style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="15cvuibfH3NCaci-gAok-133" vertex="1">
+        <mxCell id="1suncA-tpUtVwazBk-I_-50" value="+updatePaymentStatus(paymentId: Long, status: PaymentStatus, adminId: Long) : Boolean&#xa;(PENDING, COMPLETED, FAILED) [Acces method Admin] " style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="15cvuibfH3NCaci-gAok-133" vertex="1">
           <mxGeometry y="286" width="730" height="40" as="geometry" />
         </mxCell>
         <mxCell id="15cvuibfH3NCaci-gAok-142" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;startArrow=none;startFill=0;entryX=0.01;entryY=0.492;entryDx=0;entryDy=0;exitX=0.487;exitY=0.002;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="15cvuibfH3NCaci-gAok-133" target="15cvuibfH3NCaci-gAok-27" edge="1">
