@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="4397" dy="2893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4216" dy="2800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -3337,33 +3337,33 @@
           <mxGeometry y="338" width="720" height="26" as="geometry" />
         </mxCell>
         <mxCell id="15cvuibfH3NCaci-gAok-133" value="Payment" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1560" y="-860" width="700" height="340" as="geometry">
+          <mxGeometry x="1470" y="-852" width="820" height="330" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="15cvuibfH3NCaci-gAok-134" value="#id : int" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="15cvuibfH3NCaci-gAok-133" vertex="1">
-          <mxGeometry y="26" width="700" height="26" as="geometry" />
+          <mxGeometry y="26" width="820" height="26" as="geometry" />
         </mxCell>
         <mxCell id="15cvuibfH3NCaci-gAok-135" value="#amount: Double" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="15cvuibfH3NCaci-gAok-133" vertex="1">
-          <mxGeometry y="52" width="700" height="26" as="geometry" />
+          <mxGeometry y="52" width="820" height="26" as="geometry" />
         </mxCell>
         <mxCell id="15cvuibfH3NCaci-gAok-137" value="#paymentDate: Date" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="15cvuibfH3NCaci-gAok-133" vertex="1">
-          <mxGeometry y="78" width="700" height="26" as="geometry" />
+          <mxGeometry y="78" width="820" height="26" as="geometry" />
         </mxCell>
         <mxCell id="15cvuibfH3NCaci-gAok-138" value="#status: ENUM PaymentStatus (Pending, Completed, failed)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="15cvuibfH3NCaci-gAok-133" vertex="1">
-          <mxGeometry y="104" width="700" height="26" as="geometry" />
+          <mxGeometry y="104" width="820" height="26" as="geometry" />
         </mxCell>
         <mxCell id="1suncA-tpUtVwazBk-I_-40" value="+createPayment(bookingId: Long, amount: double, status: PaymentStatus) : Payment [Acces method Customer]" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="15cvuibfH3NCaci-gAok-133" vertex="1">
-          <mxGeometry y="130" width="700" height="26" as="geometry" />
+          <mxGeometry y="130" width="820" height="26" as="geometry" />
         </mxCell>
         <mxCell id="1suncA-tpUtVwazBk-I_-51" value="+confirmPaymentByCustomer(paymentId: Long, customerId: Long) : Boolean [Acces method Customer]" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="15cvuibfH3NCaci-gAok-133" vertex="1">
-          <mxGeometry y="156" width="700" height="26" as="geometry" />
+          <mxGeometry y="156" width="820" height="26" as="geometry" />
         </mxCell>
         <mxCell id="1suncA-tpUtVwazBk-I_-56" value="+confirmPaymentByProvider(paymentId: Long, providerId: Long) : Boolean [Acces method Provider]" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="15cvuibfH3NCaci-gAok-133" vertex="1">
-          <mxGeometry y="182" width="700" height="26" as="geometry" />
+          <mxGeometry y="182" width="820" height="26" as="geometry" />
         </mxCell>
         <mxCell id="1suncA-tpUtVwazBk-I_-55" value="+getPaymentsByCustomer(customerId: Long) : List&lt;Payment&gt; [Acces method Customer, Admin]" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="15cvuibfH3NCaci-gAok-133" vertex="1">
-          <mxGeometry y="208" width="700" height="26" as="geometry" />
+          <mxGeometry y="208" width="820" height="26" as="geometry" />
         </mxCell>
         <mxCell id="1suncA-tpUtVwazBk-I_-39" value="" style="endArrow=none;html=1;rounded=0;exitX=0.006;exitY=0.055;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;" parent="15cvuibfH3NCaci-gAok-133" source="1suncA-tpUtVwazBk-I_-40" target="15cvuibfH3NCaci-gAok-138" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -3372,13 +3372,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1suncA-tpUtVwazBk-I_-57" value="+getPaymentsByProvider(providerId: Long) : List&lt;Payment&gt; [Acces method  Provider, Admin]" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="15cvuibfH3NCaci-gAok-133" vertex="1">
-          <mxGeometry y="234" width="700" height="26" as="geometry" />
+          <mxGeometry y="234" width="820" height="26" as="geometry" />
         </mxCell>
         <mxCell id="3vltk7kAs9l9UOS3GiwP-1" value="+getAllPayments() : List&lt;Payment&gt; [Acces method Admin]" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="15cvuibfH3NCaci-gAok-133">
-          <mxGeometry y="260" width="700" height="26" as="geometry" />
+          <mxGeometry y="260" width="820" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="1suncA-tpUtVwazBk-I_-50" value="+updatePaymentStatus(paymentId: Long, status: PaymentStatus, adminId: Long) : Boolean (PENDING, COMPLETED, FAILED) &#xa;[Acces method Admin] " style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="15cvuibfH3NCaci-gAok-133" vertex="1">
-          <mxGeometry y="286" width="700" height="40" as="geometry" />
+        <mxCell id="1suncA-tpUtVwazBk-I_-50" value="+updatePaymentStatus(paymentId: Long, status: PaymentStatus, adminId: Long) : Boolean (PENDING, COMPLETED, FAILED) [Acces method Admin] " style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="15cvuibfH3NCaci-gAok-133" vertex="1">
+          <mxGeometry y="286" width="820" height="40" as="geometry" />
         </mxCell>
         <mxCell id="15cvuibfH3NCaci-gAok-142" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;startArrow=none;startFill=0;entryX=0.01;entryY=0.492;entryDx=0;entryDy=0;exitX=0.487;exitY=0.002;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="15cvuibfH3NCaci-gAok-133" target="15cvuibfH3NCaci-gAok-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -3664,15 +3664,14 @@
         <mxCell id="MfVrfE3T8ESGlt4kIMSz-0" value="&lt;div&gt;&lt;b&gt;Note : Lorsqu&#39;un utilisateur est supprimé par l&#39;Admin,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;ses logs d&#39;action sont automatiquement anonymisés.&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;p class=&quot;&quot; data-end=&quot;660&quot; data-start=&quot;619&quot;&gt;&lt;strong data-end=&quot;660&quot; data-start=&quot;619&quot;&gt;Dans &lt;code data-end=&quot;641&quot; data-start=&quot;626&quot;&gt;UserActionLog&lt;/code&gt; (entité seule) :&lt;/strong&gt;&lt;/p&gt;&lt;ul data-end=&quot;857&quot; data-start=&quot;663&quot;&gt;&lt;li class=&quot;&quot; data-end=&quot;758&quot; data-start=&quot;663&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;758&quot; data-start=&quot;665&quot;&gt;Aucune méthode de service, car cette entité doit rester une simple entité de base de données.&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;857&quot; data-start=&quot;761&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;857&quot; data-start=&quot;763&quot;&gt;Elle reste uniquement une classe de modèle avec ses attributs (&lt;code data-end=&quot;830&quot; data-start=&quot;826&quot;&gt;id&lt;/code&gt;, &lt;code data-end=&quot;840&quot; data-start=&quot;832&quot;&gt;userId&lt;/code&gt;, &lt;code data-end=&quot;850&quot; data-start=&quot;842&quot;&gt;action&lt;/code&gt;, etc.)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="4450" y="-1750" width="449.72" height="287.08" as="geometry" />
         </mxCell>
-        <mxCell id="15cvuibfH3NCaci-gAok-223" value="" style="endArrow=none;html=1;rounded=0;endFill=0;strokeWidth=2;startSize=6;startFill=0;startArrow=none;edgeStyle=orthogonalEdgeStyle;entryX=0.012;entryY=0.248;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1" target="YuPnQPCEbHuuczC3QnYb-17">
+        <mxCell id="15cvuibfH3NCaci-gAok-223" value="" style="endArrow=none;html=1;rounded=0;endFill=0;strokeWidth=2;startSize=6;startFill=0;startArrow=none;edgeStyle=orthogonalEdgeStyle;entryX=-0.046;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1" target="YuPnQPCEbHuuczC3QnYb-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="4410" y="-974" as="sourcePoint" />
             <mxPoint x="2090" y="-510" as="targetPoint" />
             <Array as="points">
               <mxPoint x="4410" y="50" />
               <mxPoint x="2090" y="50" />
-              <mxPoint x="2090" y="-510" />
-              <mxPoint x="2091" y="-510" />
+              <mxPoint x="2090" y="-522" />
             </Array>
           </mxGeometry>
         </mxCell>
