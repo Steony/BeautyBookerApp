@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="4195" dy="2790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6708" dy="4932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -3683,10 +3683,10 @@
           <mxGeometry x="4210" y="-950" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1suncA-tpUtVwazBk-I_-79" value="&lt;div&gt;&lt;b&gt;Note :&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;filtrer uniquement les créneaux disponibles, directement dans la logique de la méthode (&lt;/span&gt;&lt;code style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;406&quot; data-start=&quot;397&quot;&gt;Service&lt;/code&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;), en filtrant ceux qui ne sont pas associés à une réservation (&lt;/span&gt;&lt;code style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;491&quot; data-start=&quot;482&quot;&gt;Booking&lt;/code&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;).&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3981.87" y="-90" width="310" height="64" as="geometry" />
+          <mxGeometry x="3640" y="300" width="310" height="64" as="geometry" />
         </mxCell>
         <mxCell id="MfVrfE3T8ESGlt4kIMSz-0" value="&lt;div&gt;&lt;b&gt;Note : Lorsqu&#39;un utilisateur est supprimé par l&#39;Admin,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;ses logs d&#39;action sont automatiquement anonymisés.&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;p class=&quot;&quot; data-end=&quot;660&quot; data-start=&quot;619&quot;&gt;&lt;strong data-end=&quot;660&quot; data-start=&quot;619&quot;&gt;Dans &lt;code data-end=&quot;641&quot; data-start=&quot;626&quot;&gt;UserActionLog&lt;/code&gt; (entité seule) :&lt;/strong&gt;&lt;/p&gt;&lt;ul data-end=&quot;857&quot; data-start=&quot;663&quot;&gt;&lt;li class=&quot;&quot; data-end=&quot;758&quot; data-start=&quot;663&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;758&quot; data-start=&quot;665&quot;&gt;Aucune méthode de service, car cette entité doit rester une simple entité de base de données.&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;857&quot; data-start=&quot;761&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;857&quot; data-start=&quot;763&quot;&gt;Elle reste uniquement une classe de modèle avec ses attributs (&lt;code data-end=&quot;830&quot; data-start=&quot;826&quot;&gt;id&lt;/code&gt;, &lt;code data-end=&quot;840&quot; data-start=&quot;832&quot;&gt;userId&lt;/code&gt;, &lt;code data-end=&quot;850&quot; data-start=&quot;842&quot;&gt;action&lt;/code&gt;, etc.)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="4229.28" y="-1710" width="449.72" height="287.08" as="geometry" />
+          <mxGeometry x="4421.5" y="-2177.08" width="449.72" height="287.08" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
