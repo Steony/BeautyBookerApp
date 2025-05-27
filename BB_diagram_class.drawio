@@ -3182,7 +3182,7 @@
         <mxCell id="3vltk7kAs9l9UOS3GiwP-2" value="+getAllReviews() [Acces method Admin]" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" parent="15cvuibfH3NCaci-gAok-71" vertex="1">
           <mxGeometry y="410" width="540" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="2UyS4JwNbxQhDPF1Zkd7-0" value="+getReviewsByMakeupService(serviceId : Long) : List&lt;Review&gt;  «Accès method Provider, Admin»&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" vertex="1" parent="15cvuibfH3NCaci-gAok-71">
+        <mxCell id="2UyS4JwNbxQhDPF1Zkd7-0" value="+getReviewsByMakeupService(serviceId : Long) : List&lt;Review&gt;  [Accès method Provider, Admin}&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" vertex="1" parent="15cvuibfH3NCaci-gAok-71">
           <mxGeometry y="452" width="540" height="42" as="geometry" />
         </mxCell>
         <mxCell id="15cvuibfH3NCaci-gAok-79" value="" style="endArrow=none;html=1;rounded=0;entryX=0.004;entryY=-0.088;entryDx=0;entryDy=0;strokeWidth=2;startArrow=none;startFill=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="2p8KRraRj8Bj6ieeqzX5-3" edge="1">
